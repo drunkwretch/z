@@ -1,0 +1,1210 @@
+<?xml version="1.0" encoding="utf-8"?><rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<channel>
+  <title>浮之静</title>
+  <atom:link href="https://lencx.tech/feed.xml" rel="self" type="application/rss+xml" />
+  <link>https://lencx.tech</link>
+  <description>浮之静 技术社区</description>
+  <item>
+  <title><![CDATA[阅读打卡]]></title>
+  <link>https://github.com/lencx/z/discussions/44</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/44</guid>
+  <pubDate>2021-10-13</pubDate>
+  <description><![CDATA[<ul>
+<li><a href="https://www.quora.com/What-should-you-say-no-to-in-the-morning-to-have-a-more-productive-day" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> What should you say no to in the morning to have a more productive day?</a></li>
+<li><a href="https://thenewstack.io/better-incident-management-requires-more-than-just-data/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Better Incident Management Requires More than Just Data</a></li>
+<li><a href="https://blog.codinghorror.com/recommended-reading-for-developers/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Recommended Reading for Developers</a></li>
+<li><a href="https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> 提問的智慧</a> - 本文原文由知名 Hacker Eric S. Raymond 所撰寫，教你如何正確的提出技術問題並獲得你滿意的答案</li>
+<li><a href="https://cscalfani.medium.com/how-to-write-a-programming-book-76ab4f8a7071" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> How To Write a Programming Book</a></li>
+<li><a href="https://dzone.com/articles/the-key-for-a-good-start-in-programming" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> The Key To a Good Start in Programming</a></li>
+<li><a href="https://theburningmonk.com/2019/11/how-to-break-the-senior-engineer-career-ceiling/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> How to break the “senior engineer” career ceiling</a></li>
+<li><a href="https://betterprogramming.pub/should-you-be-deleting-your-own-code-ba77700cf4b8" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Should You Be Deleting Your Own Code?</a></li>
+<li><a href="https://dzone.com/articles/nobody-asked-you-to-code-like-kubrick" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Nobody Asked You to Code Like Kubrick</a></li>
+<li><a href="https://dzone.com/articles/what-is-functional-programming-easy-way" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> What Is Functional Programming? | The Easy Way</a></li>
+<li><a href="https://www.freecodecamp.org/news/coding-programs-coding-classes-you-can-take-for-free-online/" rel="nofollow">Coding Programs – 152 Coding Classes You can Take for Free Online</a></li>
+</ul>
+<hr>
+<h3>Linux</h3>
+<ul>
+<li><a href="https://thenewstack.io/linus-torvalds-on-community-rust-and-linuxs-longevity/" rel="nofollow">Linus Torvalds on Community, Rust and Linux’s Longevity</a></li>
+</ul>
+<h3>Git</h3>
+<ul>
+<li><a href="https://github.blog/2021-08-16-highlights-from-git-2-33/" rel="nofollow">Highlights from Git 2.33</a></li>
+<li><a href="https://www.linuxuprising.com/2021/08/gitui-017-adds-ability-to-compare.html" rel="nofollow">GitUI 0.17 Adds The Ability To Compare Commits, New Options Popup (Terminal UI For Git Written In Rust)</a></li>
+</ul>
+<h3>Web</h3>
+<ul>
+<li><a href="https://christianheilmann.com/2021/10/12/what-if-you-could-use-visual-studio-code-as-the-editor-of-in-browser-developer-tools/" rel="nofollow">What if… you could use Visual Studio Code as the editor of in-browser Developer Tools?</a></li>
+<li><a href="https://www.baldurbjarnason.com/2021/single-page-app-morality-play/" rel="nofollow">The Single-Page-App Morality Play</a></li>
+<li><a href="https://css-tricks.com/scroll-shadows-with-javascript/" rel="nofollow">Scroll Shadows With JavaScript</a></li>
+<li><a href="https://thenewstack.io/all-about-svelte-the-much-loved-state-driven-web-framework/" rel="nofollow">All About Svelte, the Much-Loved, State-Driven Web Framework</a></li>
+<li><a href="https://www.c-sharpcorner.com/article/micro-frontends-with-webpack/" rel="nofollow">Micro Frontends With Webpack</a></li>
+<li><a href="https://indepth.dev/posts/1482/an-in-depth-perspective-on-webpacks-bundling-process" rel="nofollow">An in-depth perspective on webpack's bundling process</a></li>
+<li><a href="https://www.joshwcomeau.com/blog/how-i-built-my-blog/" rel="nofollow">How I Built My Blog</a></li>
+<li><a href="https://blog.logrocket.com/building-type-safe-dictionary-typescript/" rel="nofollow">Building a type-safe dictionary in TypeScript</a></li>
+<li><a href="https://blog.logrocket.com/react-structured-data-and-seo/" rel="nofollow">React, structured data, and SEO</a></li>
+<li><a href="https://rome.tools/blog/2021/09/21/rome-will-be-rewritten-in-rust" rel="nofollow">Rome will be written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji></a></li>
+<li><a href="https://blog.logrocket.com/react-hooks-infinite-scroll-advanced-tutorial/" rel="nofollow">React Hooks for infinite scroll: An advanced tutorial</a></li>
+<li><a href="https://css-tricks.com/an-intro-to-javascript-proxy/" rel="nofollow">An Intro to JavaScript Proxy</a></li>
+<li><a href="https://dev.to/this-is-learning/javascript-vs-javascript-round-2-fight-2m44" rel="nofollow">JavaScript vs JavaScript: Round 2. Fight!</a></li>
+<li><a href="https://www.bram.us/2021/09/15/the-future-of-css-cascade-layers-css-at-layer/" rel="nofollow">The Future of CSS: Cascade Layers (CSS @layer)</a></li>
+<li><a href="https://www.joshwcomeau.com/css/designing-shadows/" rel="nofollow">Designing Beautiful Shadows in CSS</a></li>
+<li><a href="https://www.freecodecamp.org/news/build-a-css-library-with-vitejs/" rel="nofollow">How to Build a CSS Library with Vite.js</a></li>
+<li><a href="https://blog.logrocket.com/best-practices-using-trailing-commas-javascript/" rel="nofollow">Best practices for using trailing commas in JavaScript</a></li>
+<li><a href="https://www.freecodecamp.org/news/synchronous-vs-asynchronous-in-javascript/" rel="nofollow">Synchronous vs Asynchronous JavaScript – Call Stack, Promises, and More</a></li>
+<li><a href="https://css-tricks.com/exploring-the-css-paint-api-blob-animation/" rel="nofollow">Exploring the CSS Paint API: Blob Animation</a></li>
+<li><a href="https://www.smashingmagazine.com/2021/09/devtools-cross-browser-edition/" rel="nofollow">What’s New With DevTools: Cross-Browser Edition</a></li>
+<li><a href="https://joelhooks.com/react-video-player" rel="nofollow">React Video Player Component Using Hooks, TypeScript, and xState</a></li>
+<li><a href="https://web.dev/bundling-non-js-resources/" rel="nofollow">Bundling non-JavaScript resources</a></li>
+<li><a href="https://dev.to/kunaal438/how-to-create-music-player-with-pure-html-css-js-c1j" rel="nofollow">How to create Music player with pure HTML, CSS, JS</a></li>
+<li><a href="https://blog.logrocket.com/create-draggable-components-react-draggable/" rel="nofollow">Create draggable components with React-Draggable</a></li>
+<li><a href="https://dev.to/ms_yogii/infinite-scrolling-in-react-with-intersection-observer-22fh" rel="nofollow">Infinite scrolling in React with intersection observer</a></li>
+<li><a href="https://dev.to/anishkumar/memoizing-fetch-api-calls-in-javascript-1d16" rel="nofollow">Memoizing async functions in Javascript</a></li>
+<li><a href="https://www.freecodecamp.org/news/nodejs-eventloop-tutorial/" rel="nofollow">Event Loops in NodeJS – Beginner's Guide to Synchronous and Asynchronous Code</a></li>
+<li><a href="https://webreflection.medium.com/js-all-you-can-weak-bbe45709b382" rel="nofollow">JS: All You Can Weak!</a></li>
+<li><a href="https://dev.to/omardiaa48/how-to-make-realtime-apis-with-nodejs-and-reactjs-using-socket-io-6ja" rel="nofollow">How to make realtime APIs with NodeJS and ReactJS using Socket.io</a></li>
+<li><a href="https://blog.logrocket.com/understanding-javascript-currying/" rel="nofollow">Understanding JavaScript currying</a></li>
+<li><a href="https://deno.com/blog/deno-on-mdn" rel="nofollow">Deno on MDN</a></li>
+<li><a href="https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/loading-third-party-javascript" rel="nofollow">Loading Third-Party JavaScript</a></li>
+<li><a href="https://dev.to/this-is-learning/javascript-vs-javascript-fight-53fa" rel="nofollow">JavaScript vs JavaScript. Fight!</a></li>
+<li><a href="https://www.cloudsavvyit.com/13696/why-webassembly-frameworks-are-the-future-of-the-web/" rel="nofollow">Why WebAssembly Frameworks Are the Future of the Web</a></li>
+<li><a href="https://dev.to/franciscomendes10866/how-to-create-a-video-player-in-react-40jj" rel="nofollow">How to Create a Video Player in React</a></li>
+<li><a href="https://javascript.plainenglish.io/what-i-wish-i-knew-about-algorithms-and-data-structures-applied-to-javascript-aba1c05edac9" rel="nofollow">Algorithms and Data Structures for JavaScript Engineers</a></li>
+<li><a href="https://2ality.com/2021/07/simple-monorepos.html" rel="nofollow">Simple monorepos via npm workspaces and TypeScript project references</a></li>
+<li><a href="https://dev.to/richharris/stay-alert-d" rel="nofollow">Stay alert</a></li>
+<li><a href="https://tympanus.net/codrops/2021/08/02/magical-marbles-in-three-js/" rel="nofollow">Magical Marbles in Three.js</a></li>
+<li><a href="https://blog.prototypr.io/ui-design-tactics-part-1-d82ae4e9d832" rel="nofollow">UI Design Tactics — Part 1</a></li>
+<li><a href="https://webreflection.medium.com/about-web-components-cc3e8b4035b0" rel="nofollow">About Web Components</a></li>
+<li><a href="https://levelup.gitconnected.com/creating-a-force-graph-using-react-d3-and-pixijs-95616051aba" rel="nofollow">Creating a Force Graph using React, D3, and PixiJS</a></li>
+<li><a href="https://tsh.io/blog/finite-state-machines-in-react/" rel="nofollow">How to use finite state machines in React? Explained by a frontend developer</a></li>
+<li><a href="https://dmitripavlutin.com/javascript-promises-then-vs-then-catch/" rel="nofollow">JavaScript Promises: then(f,f) vs then(f).catch(f)</a></li>
+<li><a href="https://www.sitepoint.com/git-interactive-rebase-guide/" rel="nofollow">A Guide to Git Interactive Rebase, with Practical Examples</a></li>
+<li><a href="https://blog.container-solutions.com/10-predictions-for-the-future-of-computing" rel="nofollow">10 Predictions for the Future of Computing or; the Inane Ramblings of our Chief Scientist</a></li>
+<li><a href="https://alexsidorenko.com/blog/react-list-rerender/" rel="nofollow">How to stop re-rendering lists in React?</a></li>
+<li><a href="https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/" rel="nofollow">Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG</a></li>
+<li><a href="https://dev.to/devpool3000/4-javascript-projects-to-build-fast-and-get-hired-in-1-month-4agf" rel="nofollow">4 JavaScript Projects To Build FAST And Get Hired In 1 Month</a></li>
+<li><a href="https://betterprogramming.pub/is-node-js-really-single-threaded-7ea59bcc8d64" rel="nofollow">Is Node.js Really Single-Threaded? </a></li>
+<li><a href="https://blog.bitsrc.io/the-command-pattern-in-typescript-encapsulating-logic-to-increase-maintainability-801cd135f2e6" rel="nofollow">The Command Pattern in TypeScript — Encapsulating Logic to Increase Maintainability</a></li>
+<li><a href="https://dev.to/ahmedgmurtaza/use-closures-for-memory-optimizations-in-javascript-a-case-study-43h9" rel="nofollow">Use Closures for Memory Optimizations in JavaScript (a case study)</a></li>
+<li><a href="https://web.dev/webassembly-threads/" rel="nofollow">Using WebAssembly threads from C, C++ and Rust</a></li>
+<li><a href="https://www.notion.so/blog/data-model-behind-notion" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> The data model behind Notion's flexibility</a></li>
+<li><a href="https://levelup.gitconnected.com/how-to-design-a-system-to-scale-to-your-first-100-million-users-4450a2f9703d" rel="nofollow">How to design a system to scale to your first 100 million users</a></li>
+<li><a href="https://overreacted.io/npm-audit-broken-by-design/" rel="nofollow">npm audit: Broken by Design</a></li>
+<li><a href="https://research.protocol.ai/blog/2021/designing-a-dataflow-editor-with-typescript-and-react/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Designing a Dataflow Editor with TypeScript and React</a></li>
+<li><a href="https://www.sitepoint.com/building-webrtc-video-chat-applications/" rel="nofollow">Building WebRTC Video Chat Applications</a></li>
+<li><a href="https://github.com/hieunc229/copilot-clone">Captain Stack — Code suggestion for VSCode</a> - This feature is somewhat similar to Github Copilot's code suggestion. But instead of using AI, it sends your search query to Google, then retrieves StackOverflow answers and autocompletes them for you.</li>
+<li><a href="https://2ality.com/2021/06/temporal-api.html" rel="nofollow">Temporal: getting started with JavaScript’s new date time API</a></li>
+<li><a href="https://dev.to/ryansolid/solidjs-official-release-the-long-road-to-1-0-4ldd" rel="nofollow">SolidJS Official Release: The long road to 1.0</a></li>
+<li><a href="https://www.sitepoint.com/moving-backgrounds-when-why-how" rel="nofollow">Moving Backgrounds: When, Why, and How to Use Them</a></li>
+<li><a href="https://www.sitepoint.com/typing-versus-dynamic-typing/" rel="nofollow"><g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji> Introduction to Data Types: Static, Dynamic, Strong &amp; Weak</a> - static doesn’t necessarily mean strong and dynamic doesn’t necessarily mean weak</li>
+<li><a href="https://www.freecodecamp.org/news/understanding-sorting-algorithms/" rel="nofollow">Understanding Sorting Algorithms</a></li>
+<li><a href="https://hacks.mozilla.org/2021/06/implementing-private-fields-for-javascript/" rel="nofollow">Implementing Private Fields for JavaScript</a></li>
+<li><a href="https://utopia.app/" rel="nofollow">Introducing Utopia</a> - Design <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> Code</li>
+<li><a href="https://michaelscodingspot.com/javascript-performance-apis/" rel="nofollow">New browser APIs to detect JavaScript performance problems in production</a></li>
+<li><a href="https://www.sitepoint.com/web3-new-web-new-world/?utm_medium=email&amp;utm_campaign=spw-28&amp;utm_source=sitepoint-weekly" rel="nofollow">Web3: A New Web for a New World</a></li>
+<li><a href="https://dev.to/mehmehmehlol/intro-to-asynchronous-javascript-g9e" rel="nofollow">Intro to Asynchronous JavaScript</a></li>
+<li><a href="https://naruhodo.dev/what-is-vite-and-how-to-use-it-with-react/" rel="nofollow">What is Vite and how to use it with React</a></li>
+</ul>
+<h3>Rust</h3>
+<ul>
+<li><a href="https://www.infoworld.com/article/3633002/the-future-of-rust.html" rel="nofollow">The future of Rust</a></li>
+<li><a href="https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/" rel="nofollow">Full-stack Rust: A complete tutorial with examples</a></li>
+<li><a href="https://www.sitepoint.com/rust-global-variables" rel="nofollow">How to Idiomatically Use Global Variables in Rust</a></li>
+</ul>
+<h3>GitHub</h3>
+<ul>
+<li><a href="https://github.blog/2021-08-17-github-discussions-out-of-beta/" rel="nofollow">GitHub Discussions is out of beta</a></li>
+<li><a href="https://www.smashingmagazine.com/2021/08/automate-documentation-workflow-for-developers/" rel="nofollow">How To Automate Documentation Workflow For Developers</a></li>
+<li><a href="https://www.freecodecamp.org/news/github-stars-answer-the-communitys-most-asked-questions/" rel="nofollow">How to Become a GitHub Star – Tips from Actual GitHub Stars</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Web Development Guide]]></title>
+  <link>https://github.com/lencx/z/discussions/8</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/8</guid>
+  <pubDate>2021-10-09</pubDate>
+  <description><![CDATA[<h2>Guide</h2>
+<ul>
+<li><a href="https://www.freecodecamp.org" rel="nofollow">Learn to Code — For Free — Coding Courses for Busy People</a> - Learn to Code — For Free.</li>
+<li><a href="https://developer.mozilla.org" rel="nofollow">MDN Web Docs</a> - The MDN Web Docs site provides information about Open Web technologies including HTML, CSS, and APIs for both Web sites and progressive web apps.</li>
+<li><a href="https://developers.google.com/web" rel="nofollow">Web  |  Google Developers</a> - Build the next generation of web experiences.</li>
+<li><a href="https://github.com/microsoft/Web-Dev-For-Beginners">Web Development for Beginners - A Curriculum</a> - 24 Lessons, 12 Weeks, Get Started as a Web Developer</li>
+<li><a href="https://javascript.info/" rel="nofollow">The Modern JavaScript Tutorial</a> - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.</li>
+<li><a href="https://caniuse.com" rel="nofollow">Can I use... Support tables for HTML5, CSS3, etc</a> - "Can I use" provides up-to-date browser support tables for support of front-end web technologies on desktop and mobile web browsers.</li>
+<li><a href="https://www.w3schools.com" rel="nofollow">W3Schools Online Web Tutorials</a> - Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML, CSS, JavaScript, SQL, Python, PHP, Bootstrap, Java, XML and more.</li>
+<li><a href="https://dev.to" rel="nofollow">DEV Community <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji></a> - A constructive and inclusive social network for software developers. With you every step of your journey.</li>
+<li><a href="https://medium.com" rel="nofollow">Medium</a> - Every idea needs a Medium.</li>
+<li><a href="https://www.sitepoint.com" rel="nofollow">Sitepoint</a> - Stay at the cutting edge of tech</li>
+<li><a href="https://fireship.io" rel="nofollow">Fireship.io</a> - Training and Consulting for App Developers | Full Courses, Video Lessons, Chat, and More.</li>
+<li><a href="https://ui.dev" rel="nofollow">Master the JavaScript Ecosystem - ui.dev</a> - Comprehensive learning resources for mastering the JavaScript ecosystem.</li>
+<li><a href="https://reacttraining.com" rel="nofollow">React Training</a> - React Corporate Workshops, Training, and Consulting.</li>
+<li><a href="https://github.com/taowen/awesome-lowcode">awesome-lowcode</a> - 国内低代码平台从业者交流</li>
+<li><a href="https://github.com/dexteryy/spellbook-of-modern-webdev">Spellbook of Modern Web Dev</a> - A Big Picture, Thesaurus, and Taxonomy of Modern JavaScript Web Development</li>
+<li><a href="https://www.30secondsofcode.org/" rel="nofollow">30 seconds of code</a> - Browse 1043 short code snippets for all your development needs on 30 seconds of code.</li>
+<li><a href="https://github.com/lencx/z/discussions/33" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/33/hovercard">JavaScript Series</a></li>
+<li><a href="https://github.com/lencx/z/discussions/5" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/5/hovercard">CSS Series</a></li>
+</ul>
+<h2>Frame</h2>
+<ul>
+<li><a href="https://reactjs.org" rel="nofollow">React</a> - A JavaScript library for building user interfaces
+<ul>
+<li><a href="https://github.com/preactjs/preact">Preact</a> - <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji> Fast 3kB React alternative with the same modern API. Components &amp; Virtual DOM.</li>
+</ul>
+</li>
+<li><a href="https://vuejs.org" rel="nofollow">Vue.js</a> - The Progressive JavaScript Framework
+<ul>
+<li><a href="https://github.com/vuejs/petite-vue">petite-vue</a> - 5kb subset of Vue optimized for progressive enhancement</li>
+</ul>
+</li>
+<li><a href="https://angular.io" rel="nofollow">Angular</a> - The modern web developer's platform</li>
+<li><a href="https://svelte.dev" rel="nofollow">Svelte</a> - Cybernetically enhanced web apps</li>
+<li><a href="https://github.com/yisar/fre">Fre</a> - <g-emoji class="g-emoji" alias="ghost" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47b.png">👻</g-emoji> Tiny Footprint Concurrent UI library for Fiber.</li>
+<li><a href="https://www.solidjs.com" rel="nofollow">Solid</a> - Solid is a purely reactive library. It was designed from the ground up with a reactive core. It's influenced by reactive principles developed by previous libraries.</li>
+<li><a href="https://lit.dev" rel="nofollow">Lit</a> - Simple. Fast. Web Components.</li>
+</ul>
+<h3>Awesome</h3>
+<ul>
+<li><a href="https://github.com/lencx/z/discussions/11" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/11/hovercard">Awesome React</a></li>
+<li><a href="https://github.com/lencx/z/discussions/67" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/67/hovercard">Awesome Vue</a></li>
+</ul>
+<h3>Charts</h3>
+<ul>
+<li><a href="https://github.com/airbnb/visx">visx</a> - is a collection of reusable low-level visualization components. visx combines the power of d3 to generate your visualization with the benefits of react for updating the DOM.</li>
+<li><a href="https://antv.vision" rel="nofollow">Antv</a> - AntV is a new generation of data visualization technique from Ant Group. We provide best practices of data visualization with simplicity, convenience, profession, reliability, and infinite possibilities.</li>
+</ul>
+<h2>Surveys</h2>
+<ul>
+<li><a href="https://w3techs.com" rel="nofollow">W3Techs - extensive and reliable web technology surveys</a> - W3Techs provides information about the usage of various types of technologies on the web.</li>
+</ul>
+<h2>RegExp</h2>
+<ul>
+<li><a href="https://regexper.com/" rel="nofollow">Regexper</a> - Regular expression visualizer using railroad diagrams</li>
+<li><a href="https://jex.im/regulex" rel="nofollow">Regulex</a> - JavaScript Regular Expression Visualizer.</li>
+<li><a href="https://regexr.com/" rel="nofollow">RegExr: Learn, Build, &amp; Test RegEx</a> - RegExr is an online tool to learn, build, &amp; test Regular Expressions (RegEx / RegExp).</li>
+<li><a href="https://www.regular-expressions.info/" rel="nofollow">Regular-Expressions.info - Regex Tutorial, Examples and Reference - Regexp Patterns</a> - At Regular-Expressions.info you will find a wide range of in-depth information about a powerful search pattern language called regular expressions.</li>
+<li><a href="https://extendsclass.com/regex-tester.html" rel="nofollow">Online Regex tester and visualizer - Python, PHP, Ruby, JavaScript, Java</a> - Online regular expression tester for Python, PHP, Ruby, JS, Java and MySQL. Regex visualizer. Syntax highlighting. Cheatsheet. Generate string corresponding to a regex.</li>
+<li><a href="https://www.debuggex.com/" rel="nofollow">Debuggex: Online visual regex tester. JavaScript, Python, and PCRE.</a> - Test your regex by visualizing it with a live editor. JavaScript, Python, and PCRE.</li>
+<li><a href="https://www.freeformatter.com/regex-tester.html" rel="nofollow">Free Online Regular Expression Tester - FreeFormatter.com</a> - Free online regular expression tester with cheatsheet and most common solutions to common problems</li>
+</ul>
+<h2>Blog</h2>
+<ul>
+<li><a href="https://2ality.com" rel="nofollow">2ality</a> – JavaScript and more</li>
+<li><a href="https://alligator.io" rel="nofollow">Front-end Web Development, Chewed Up ← Alligator.io</a> - Learn Angular 2+, Vue.js, React, TypeScript, Ionic, JavaScript (ES6/ES2015+) &amp; CSS with short, straightforward posts.</li>
+<li><a href="https://overreacted.io" rel="nofollow">Overreacted</a> - Personal blog by Dan Abramov. I explain with words and code.</li>
+<li><a href="https://www.robinwieruch.de" rel="nofollow">RWieruch</a> - Software Engineer for React.js, Node.js, GraphQL and JavaScript. Based in Berlin, German/English speaking. Consulting/Freelancing for Web Development project: Code Audits/Reviews, Workshops, Training, Implementation ...</li>
+<li><a href="https://daveceddia.com" rel="nofollow">Dave Ceddia</a> - Articles to help you learn and master frontend development with React.</li>
+<li><a href="https://charliegerard.dev" rel="nofollow">Charlie Gerard | Senior frontend developer &amp; Creative Technologist</a> - Collection of side projects, conference talks and blog posts experimenting with frontend technologies and human-computer interaction.</li>
+<li><a href="https://lea.verou.me/" rel="nofollow">Lea Verou – Life at the bleeding edge (of web standards)</a></li>
+<li><a href="https://chriscoyier.net/" rel="nofollow">Blog - Chris Coyier</a></li>
+<li><a href="https://flaviocopes.com/" rel="nofollow">Flavio Copes</a> - JavaScript and Web Development Tutorials</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Node.js Terminal Libraries]]></title>
+  <link>https://github.com/lencx/z/discussions/69</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/69</guid>
+  <pubDate>2021-10-04</pubDate>
+  <description><![CDATA[<ul>
+<li><a href="https://github.com/cacjs/cac">cac</a> - Simple yet powerful framework for building command-line apps.</li>
+<li><a href="https://github.com/chalk/chalk">chalk</a> - <g-emoji class="g-emoji" alias="crayon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f58d.png">🖍</g-emoji> Terminal string styling done right
+<ul>
+<li><a href="https://github.com/marvinhagemeister/kolorist">kolorist</a> - Tiny library to put colors into stdin/stdout <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji></li>
+</ul>
+</li>
+<li><a href="https://github.com/sindresorhus/ora">ora</a> - Elegant terminal spinner
+<ul>
+<li><a href="https://github.com/jcarpanelli/spinnies">spinnies</a> - Node.js module to create and manage multiple spinners in command-line interface programs</li>
+</ul>
+</li>
+<li><a href="https://github.com/enquirer/enquirer">enquirer</a> - Stylish, intuitive and user-friendly prompts, for Node.js. Used by eslint, webpack, Generate, lint-staged, pm2, gluegun, hygen, GitHub Actions Toolkit, @airbnb/nimbus, and many others!</li>
+<li><a href="https://github.com/google/zx">zx</a> - A tool for writing better scripts</li>
+<li><a href="https://github.com/substack/minimist">minimist</a> - parse argument options
+<ul>
+<li><a href="https://github.com/vercel/arg">arg</a> - arg is an unopinionated, no-frills CLI argument parser.</li>
+</ul>
+</li>
+<li><a href="https://github.com/visionmedia/debug">debug</a> - A tiny JavaScript debugging utility modelled after Node.js core's debugging technique. Works in Node.js and web browsers</li>
+<li><a href="https://github.com/sindresorhus/execa">execa</a> - Process execution for humans</li>
+<li><a href="https://github.com/npm/node-semver">node-semver</a> - The semver parser for node (the one npm uses)</li>
+<li><a href="https://github.com/unjs/consola">consola</a> - Elegant Console Logger for Node.js and Browser <g-emoji class="g-emoji" alias="koala" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f428.png">🐨</g-emoji></li>
+<li><a href="https://github.com/antfu/esno">esno</a> - TypeScript / ESNext node runtime powered by esbuild</li>
+<li><a href="https://github.com/antfu/ni">ni</a> - <g-emoji class="g-emoji" alias="bulb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a1.png">💡</g-emoji> Use the right package manager</li>
+<li><a href="https://github.com/lukeed/sade">sade</a> - Sade is a small but powerful tool for building command-line interface (CLI) applications for Node.js that are fast, responsive, and helpful!</li>
+</ul>
+<h3>fs</h3>
+<ul>
+<li><a href="https://github.com/isaacs/rimraf">rimraf</a> - A <code>rm -rf</code> util for nodejs
+<ul>
+<li><a href="https://github.com/sindresorhus/del">del</a> - Delete files and directories</li>
+</ul>
+</li>
+<li><a href="https://github.com/substack/node-mkdirp">mkdirp</a> - Recursively mkdir, like <code>mkdir -p</code>, but in node.js</li>
+<li><a href="https://github.com/jprichardson/node-fs-extra">Node.js: fs-extra</a> - Node.js: extra methods for the fs object like copy(), remove(), mkdirs()</li>
+<li><a href="https://github.com/mrmlnc/fast-glob">fast-glob</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> It's a very fast and efficient glob library for Node.js
+<ul>
+<li><a href="https://github.com/sindresorhus/globby">globby</a> - User-friendly glob matching</li>
+</ul>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[lencx 语录]]></title>
+  <link>https://github.com/lencx/z/discussions/74</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/74</guid>
+  <pubDate>2021-09-24</pubDate>
+  <description><![CDATA[<blockquote>
+<p>此语录，无任何意义，仅记录生活中的所思所感...</p>
+</blockquote>
+<h2>学习</h2>
+<ul>
+<li>要学会把问题交给搜索引擎，而不是把群友当成搜索引擎。</li>
+<li>同样一个问题，用百度和 <a href="https://bing.com/" rel="nofollow">Bing</a>（有能力的用 <a href="https://www.google.com/" rel="nofollow">Google</a>） 对比一下就知道了。</li>
+<li>学习技术，先扫一遍文档，从最基本的开始搭建学习，功能一点点的增加进来。边看边实践，敲键盘也会加深记忆。</li>
+<li>优秀一天容易，难的是一直优秀。</li>
+</ul>
+<h2>日常</h2>
+<ul>
+<li>感谢所有夸我的人，说句实话，我不 NB，在技术群里，大部分人的能力都要比我强，如果不能释放，那就是“隐藏能力”，我只是比较张扬而已。</li>
+<li>任何话题都是技术交流，代码不是全部。</li>
+<li>不信鬼神，但对未知还是要保持敬畏之心。</li>
+<li>群里虽然前端居多，似乎更应该发和前端相关的内容。但一切皆知识，路应该越走越宽。专精于 xxx 或许没错，但只有 xxx，视野过于被局限，会少了很多灵感碰撞及其他可能性。（广度与深度该如何抉择）</li>
+<li>彩票属于不确定的意外之财，讨论这个没啥意义。运气不是每个人都有的，现实点。（学会自我催眠）</li>
+<li>我写的文章没啥技术含量，手撕不动，脑子也不怎么灵活，基础更是一塌糊涂。</li>
+</ul>
+<h2>吐槽</h2>
+<ul>
+<li>做任何事都是需要指标的，没有高标准，就不会把事情做到极致。但是国内忽视了一些东西，或者说不愿意去面对实际场景，“拍脑袋”和“我以为”就是标准。KPI 最终沦为了老板们的大屏数据，似乎数据代表一切...</li>
+<li>说句难听的，国人有能力的不少，但是创造的东西，真不咋样，很难有思维上的突破，到处都是“借鉴”。</li>
+<li>国外做开源的很多可能就是个学生，普通程序员，没啥 title，吊打国内一大批程序员；级别，title 是越封越高，能力倒是没见涨。</li>
+<li>国人不务实，很多都是面子工程，这莫非是大环境“造就”的？</li>
+<li>这两年看到比较多的消息就是 xxx 开源库作者因精力有限，放弃对其的维护工作。这都是白嫖，不返哺社区的结果。</li>
+<li>百度就是个“垃圾”，程序员使用百度，我很不能理解。（用百度查找问题效率很低，搜索结果百分之八九十都是垃圾，让人觉得恶心）</li>
+<li>一个技术社区如果东西“杂了”，技术就变得不再纯粹。（四不像）</li>
+<li><a href="https://nodejs.org/en/" rel="nofollow">Node</a> 再卷，感觉都要卷到 <a href="https://v8.dev/" rel="nofollow">V8</a>，<a href="https://isocpp.org/" rel="nofollow">C++</a> 了，而我只是个前端切图仔。</li>
+<li>技术如果不纯粹就会变得畸形，写文章首要目标是思考沉淀，其次是分享传播帮助他人，最后才会考虑技术变现，但很多所谓的“作者”似乎本末倒置了。</li>
+<li>看似是要求越来越低，实则社会在教我做人。（认清现实）</li>
+<li>轮子哥，造轮子的速度比我用轮子的速度还快。（与大佬的差距）</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[WebAssembly Series]]></title>
+  <link>https://github.com/lencx/z/discussions/22</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/22</guid>
+  <pubDate>2021-09-23</pubDate>
+  <description><![CDATA[<h2>Guide</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/WebAssembly" rel="nofollow">MDN WebAssembly</a></li>
+<li><a href="https://hacks.mozilla.org/category/webassembly/" rel="nofollow">[Mozilla Hacks] WebAssembly Articles</a> - Articles posted in WebAssembly</li>
+<li><a href="https://webassembly.org" rel="nofollow">webassembly.org</a> - WebAssembly (abbreviated Wasm) is a binary instruction format for a stack-based virtual machine. Wasm is designed as a portable compilation target for programming languages, enabling deployment on the web for client and server applications.</li>
+<li><a href="https://bytecodealliance.org/articles/" rel="nofollow">Bytecode Alliance</a> - The Bytecode Alliance is a nonprofit organization dedicated to creating secure new software foundations, building on standards such as WebAssembly and WebAssembly System Interface (WASI).</li>
+<li><a href="https://rustwasm.github.io/docs/book" rel="nofollow">Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji>   and WebAssembly <g-emoji class="g-emoji" alias="spider_web" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f578.png">🕸</g-emoji>   </a> - This small book describes how to use Rust and WebAssembly together.</li>
+<li><a href="https://github.com/appcypher/awesome-wasm-langs">Awesome WebAssembly Languages</a> - <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>  A curated list of languages that compile directly to or have their VMs in WebAssembly</li>
+<li><a href="https://wasmweekly.news" rel="nofollow">WebAssembly Weekly</a> - A weekly newsletter for keeping on top of what's new in the world of WebAssembly, with tutorials, examples, articles, and more.</li>
+<li><a href="https://github.com/mbasso/awesome-wasm">Awesome Wasm</a> - <g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji>  Curated list of awesome things regarding WebAssembly (wasm) ecosystem.</li>
+<li><a href="https://wasmbyexample.dev/home.en-us.html" rel="nofollow">Wasm By Example</a> - A hands-on introduction into WebAssembly ( Wasm ). Containing simple wasm examples and wasm tutorials on how to implement concepts and various tasks using WebAssembly.</li>
+</ul>
+<h2>WASI &amp; VM &amp; VDOM</h2>
+<ul>
+<li><a href="https://github.com/bytecodealliance/wasmtime">wasmtime</a> - Standalone JIT-style runtime for WebAssembly, using Cranelift</li>
+<li><a href="https://github.com/wasm3/wasm3">Wasm3</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  The fastest WebAssembly interpreter, and the most universal runtime</li>
+<li><a href="https://github.com/wasmerio/wasmer">Wasmer</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  The leading WebAssembly Runtime supporting WASI and Emscripten.</li>
+<li><a href="https://github.com/bytecodealliance/lucet">Lucet</a> - Lucet, the Sandboxing WebAssembly Compiler.</li>
+<li><a href="https://github.com/WasmEdge/WasmEdge">WasmEdge</a> - WasmEdge Runtime is a high-performance, extensible, and hardware optimized WebAssembly Virtual Machine for automotive, cloud, AI, and blockchain applications.</li>
+<li><a href="https://github.com/mbasso/asm-dom">asm-dom</a> - A minimal WebAssembly virtual DOM to build C++ SPA (Single page applications)</li>
+</ul>
+<h2>Tools</h2>
+<ul>
+<li><a href="https://wapm.io" rel="nofollow">wapm</a> - <code>WAPM</code> is the WebAssembly Package Manager.</li>
+<li><a href="https://github.com/thedodd/trunk">trunk</a> - Build, bundle &amp; ship your Rust WASM application to the web.</li>
+<li><a href="https://github.com/bytecodealliance/wasm-tools">wasm-tools</a> - Rust tooling for low-level manipulation of WebAssembly modules.</li>
+<li><a href="https://github.com/rustwasm/wasm-pack">wasm-pack</a> - <g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">📦</g-emoji>  <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>  your favorite rust -&gt; wasm workflow tool!</li>
+</ul>
+<h2>Optimizing</h2>
+<ul>
+<li><a href="https://rustwasm.github.io/book/reference/code-size.html" rel="nofollow">Shrinking <code>.wasm</code> Code Size</a>
+<ul>
+<li><a href="https://github.com/WebAssembly/binaryen">Binaryen</a> - Binaryen is a compiler and toolchain infrastructure library for WebAssembly, written in C++. It aims to make compiling to WebAssembly easy, fast, and effective.</li>
+<li><a href="https://github.com/rustwasm/twiggy">Twiggy</a> - Twiggy <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji>  is a code size profiler</li>
+</ul>
+</li>
+<li><a href="https://emscripten.org/docs/optimizing/Optimizing-Code.html" rel="nofollow">Optimizing Code (<code>cpp</code>)</a></li>
+<li><a href="https://arxiv.org/pdf/2002.10213.pdf" rel="nofollow">Superoptimization of WebAssembly Bytecode</a></li>
+</ul>
+<h2>Open Source</h2>
+<ul>
+<li><a href="https://github.com/lencx/vite-plugin-rsw">vite-plugin-rsw</a> - <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji>  wasm-pack plugin for Vite</li>
+<li><a href="https://github.com/lencx/rsw-node">rsw-node</a> - <g-emoji class="g-emoji" alias="white_circle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26aa.png">⚪️</g-emoji>  <code>wasm-pack build</code> executed in remote deployment</li>
+<li><a href="https://github.com/GoogleChromeLabs/wasi-fs-access">wasi-fs-access</a> - This is a demo shell powered by WebAssembly, WASI, Asyncify and File System Access API.</li>
+<li><a href="https://ffmpegwasm.github.io" rel="nofollow">FFMPEG.WASM</a> - ffmpeg.wasm is a pure WebAssembly / JavaScript port of FFmpeg. It enables video &amp; audio record, convert and stream right inside browsers.</li>
+<li><a href="https://github.com/ColinEberhardt/wasm-rust-chip8">wasm-rust-chip8</a> - A WebAssembly CHIP-8 emulator written with Rust</li>
+<li><a href="https://bbodi.github.io/notecalc3" rel="nofollow">NoteCalc</a> -  is a handy notepad with a smart builtin calculator.</li>
+<li><a href="https://github.com/GraphiteEditor/Graphite">Graphite</a> - Powerful 2D vector and raster editing: procedural and nondestructive. (Photoshop + Illustrator + Houdini = Graphite)</li>
+<li><a href="https://github.com/PaddiM8/kalker">Kalker/kalk</a> - is a calculator with math syntax that supports user-defined variables and functions, complex numbers, and estimation of derivatives and integrals</li>
+<li><a href="https://github.com/torch2424/wasmboy">wasmboy</a> - Game Boy / Game Boy Color Emulator Library, <g-emoji class="g-emoji" alias="video_game" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3ae.png">🎮</g-emoji>   written for WebAssembly using AssemblyScript. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji>  Demos built with Preact and Svelte. <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji></li>
+<li><a href="https://github.com/38/plotters">Plotters</a> - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">🦀</g-emoji>   <g-emoji class="g-emoji" alias="chart_with_upwards_trend" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c8.png">📈</g-emoji>  <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji></li>
+<li><a href="https://github.com/tomaka/redshirt">redshirt</a> - The redshirt operating system is an experiment to build some kind of operating-system-like environment where executables are all in Wasm and are loaded from an IPFS-like decentralized network.</li>
+<li><a href="https://github.com/silvia-odwyer/photon">Photon</a> - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  Rust/WebAssembly image processing library</li>
+<li><a href="https://github.com/rsms/markdown-wasm">markdown-wasm</a> - Markdown parser and HTML generator implemented in WebAssembly, based on md4c.</li>
+<li><a href="https://github.com/Daninet/hash-wasm">hash-wasm</a> - Hash-WASM is a <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  lightning fast<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji>  hash function library for browsers and Node.js. It is using hand-tuned WebAssembly binaries to calculate the hash faster than other libraries.</li>
+<li><a href="https://github.com/cloudflare/serde-wasm-bindgen">serde-wasm-bindgen</a> - Native integration of <a href="https://serde.rs" rel="nofollow">Serde</a> with <a href="https://github.com/rustwasm/wasm-bindgen">wasm-bindgen</a></li>
+<li><a href="https://github.com/sycamore-rs/sycamore">sycamore</a> - A reactive DOM library for Rust in WASM.</li>
+<li><a href="https://github.com/samthor/gumnut">gumnut</a> - JS parser in Web Assembly / C.</li>
+<li><a href="https://github.com/Birch-san/box2d-wasm">box2d-wasm</a> - Box2D physics engine compiled to WebAssembly. Supports TypeScript and ES modules.</li>
+<li><a href="https://github.com/tensorflow/tfjs">TensorFlow.js</a> - A WebGL accelerated JavaScript library for training and deploying ML models.</li>
+</ul>
+<h2>Article</h2>
+<ul>
+<li><a href="https://medium.com/@alshdavid/a-vision-for-future-web-technologies-wasm-pwas-9f8c6e1fe6b0" rel="nofollow">A vision for future Web Technologies — WASM &amp; PWAs</a></li>
+<li><a href="https://thenewstack.io/the-three-pillars-of-webassembly/" rel="nofollow">The Three Pillars of WebAssembly</a></li>
+<li><a href="https://www.cloudsavvyit.com/13696/why-webassembly-frameworks-are-the-future-of-the-web/" rel="nofollow">Why WebAssembly Frameworks Are the Future of the Web</a></li>
+<li><a href="https://lencx.github.io/book/wasm/rust_wasm_frontend.html" rel="nofollow">WebAssembly入门</a></li>
+<li><a href="https://www.yuque.com/kiwenlau/blog/zg3349" rel="nofollow">十年磨一剑，WebAssembly是如何诞生的？</a></li>
+<li><a href="https://blog.scottlogic.com/2021/06/21/state-of-wasm.html" rel="nofollow">The State of WebAssembly 2021</a></li>
+<li><a href="https://web.dev/webassembly-threads/" rel="nofollow">Using WebAssembly threads from C, C++ and Rust</a></li>
+<li><a href="https://blog.discourse.org/2021/07/faster-user-uploads-on-discourse-with-rust-webassembly-and-mozjpeg/" rel="nofollow">Faster (and smaller) uploads in Discourse with Rust, WebAssembly and MozJPEG</a></li>
+<li><a href="https://wasmbook.com/" rel="nofollow">WasmBook</a> - Rick Battagline's WebAssembly Playground</li>
+<li><a href="https://surma.dev/things/js-to-asc/" rel="nofollow">Is WebAssembly magic performance pixie dust?</a></li>
+<li><a href="https://www.edx.org/course/webassembly-actors-from-cloud-to-edge" rel="nofollow">WebAssembly Actors: From Cloud to Edge</a> - Embrace the actor model to build portable, secure, lightweight WebAssembly modules that thrive in the cloud, at the edge, and anywhere in between.</li>
+<li><a href="https://blog.ttulka.com/learning-webassembly-series" rel="nofollow">Learning WebAssembly Series</a> - A series of learning texts covering the first steps with WebAssembly for complete beginners.</li>
+<li><a href="https://blog.scottlogic.com/2020/11/23/ffmpeg-webassembly.html" rel="nofollow">In-browser transcoding of video files with FFmpeg and WebAssembly</a></li>
+<li><a href="https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface" rel="nofollow">Standardizing WASI: A system interface to run WebAssembly outside the web</a></li>
+<li><a href="https://paulbutler.org/2020/the-webassembly-app-gap" rel="nofollow">The WebAssembly App Gap</a></li>
+<li><a href="https://developer.ibm.com/articles/why-webassembly-and-rust-together-improve-nodejs-performance" rel="nofollow">Why using WebAssembly and Rust together improves Node.js performance</a></li>
+<li><a href="https://v8.dev/docs/wasm-compilation-pipeline" rel="nofollow">[V8] WebAssembly compilation pipeline</a></li>
+<li><a href="https://pspdfkit.com/blog/2018/optimize-webassembly-startup-performance/" rel="nofollow">Optimizing WebAssembly Startup Time</a></li>
+<li><a href="https://www.cs.cornell.edu/courses/cs6120/2019fa/blog/wasm/" rel="nofollow">Bringing You Up to Speed on How Compiling WebAssembly is Faster</a></li>
+<li><a href="https://mrale.ph/blog/2018/02/03/maybe-you-dont-need-rust-to-speed-up-your-js.html#getting-the-code" rel="nofollow">Maybe you don't need Rust and WASM to speed up your JS</a></li>
+<li><a href="https://thenewstack.io/using-web-assembly-written-in-rust-on-the-server-side/" rel="nofollow">Using WebAssembly Written in Rust on the Server-Side</a></li>
+<li><a href="https://thenewstack.io/the-pain-of-debugging-webassembly/" rel="nofollow">The Pain of Debugging WebAssembly</a></li>
+<li><a href="https://thenewstack.io/kubecon-eu-why-webassembly-is-more-than-a-javascript-replacement/" rel="nofollow">KubeCon EU: WebAssembly Is More Than a JavaScript Replacement</a></li>
+<li><a href="https://thenewstack.io/why-webassembly-modules-could-be-the-new-de-facto-unit-of-compute/" rel="nofollow">Why WebAssembly Modules Could Be the New de Facto Unit of Compute</a></li>
+<li><a href="https://www.infinyon.com/blog/2021/08/smartstream-aggregates/" rel="nofollow">Aggregate streaming data in real-time with WebAssembly</a></li>
+<li><a href="https://blog.logrocket.com/full-stack-rust-a-complete-tutorial-with-examples/" rel="nofollow">Full-stack Rust: A complete tutorial with examples</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[滚动进度条]]></title>
+  <link>https://github.com/lencx/z/discussions/72</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/72</guid>
+  <pubDate>2021-09-20</pubDate>
+  <description><![CDATA[<blockquote>
+<p>学习框架语言，写代码是最快的入门方式。为了给基于 <code>vitepress</code> 构建的 Blog 新增功能，现学 <code>Vue3</code>，诞生了下面的进度条组件。</p>
+</blockquote>
+<p><a href="https://code.lencx.tech/" rel="nofollow">体验地址</a> - 手写 Code Snippets 系列</p>
+<p>创建一个进度条，用来指示页面滚动百分比，主要有两点注意事项及一个思考：</p>
+<ul>
+<li>使用 <code>position: fixed</code> 将滚动进度条置于页面顶部，<code>z-index</code> 设置一个较大的值是为了保证元素在页面内容的最上层。</li>
+<li>使用 <code>EventTarget.addEventListener</code> 和 <code>Element.scrollTop</code> 来确定文档的滚动百分比并将其设置为滚动进度条的宽度。</li>
+<li>思考 - 如果页面容器高度发生变化，会发生什么？</li>
+</ul>
+<h2><g-emoji class="g-emoji" alias="diamond_shape_with_a_dot_inside" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png">💠</g-emoji> 核心</h2>
+<div class="highlight highlight-text-html-basic position-relative" data-snippet-clipboard-copy-content="&lt;div id=&quot;scroll_progress_bar&quot;&gt;&lt;/div&gt;
+"><pre><span class="pl-kos">&lt;</span><span class="pl-ent">div</span> <span class="pl-c1">id</span>="<span class="pl-s">scroll_progress_bar</span>"<span class="pl-kos">&gt;</span><span class="pl-kos">&lt;/</span><span class="pl-ent">div</span><span class="pl-kos">&gt;</span></pre></div>
+<div class="highlight highlight-source-css position-relative" data-snippet-clipboard-copy-content="#scroll_progress_bar {
+  position: fixed;
+  top: 0;
+  width: 0%;
+  height: 4px;
+  background: #7983ff;
+  z-index: 10000;
+}
+"><pre><span class="pl-kos">#</span><span class="pl-c1">scroll_progress_bar</span> {
+  <span class="pl-c1">position</span><span class="pl-kos">:</span> fixed;
+  <span class="pl-c1">top</span><span class="pl-kos">:</span> <span class="pl-c1">0</span>;
+  <span class="pl-c1">width</span><span class="pl-kos">:</span> <span class="pl-c1">0<span class="pl-smi">%</span></span>;
+  <span class="pl-c1">height</span><span class="pl-kos">:</span> <span class="pl-c1">4<span class="pl-smi">px</span></span>;
+  <span class="pl-c1">background</span><span class="pl-kos">:</span> <span class="pl-pds"><span class="pl-kos">#</span>7983ff</span>;
+  <span class="pl-c1">z-index</span><span class="pl-kos">:</span> <span class="pl-c1">10000</span>;
+}</pre></div>
+<div class="highlight highlight-source-js position-relative" data-snippet-clipboard-copy-content="const scrollProgress = document.getElementById('scroll_progress_bar');
+// 滚动条高度
+const height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+
+window.addEventListener('scroll', () =&gt; {
+  const scrollTop = document.body.scrollTop || document.documentElement.scrollTop;
+  // 当前进度条进度 = 当前滚动条位置 / 滚动条高度
+  scrollProgress.style.width = `${(scrollTop / height) * 100}%`;
+});
+"><pre><span class="pl-k">const</span> <span class="pl-s1">scrollProgress</span> <span class="pl-c1">=</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-en">getElementById</span><span class="pl-kos">(</span><span class="pl-s">'scroll_progress_bar'</span><span class="pl-kos">)</span><span class="pl-kos">;</span>
+<span class="pl-c">// 滚动条高度</span>
+<span class="pl-k">const</span> <span class="pl-s1">height</span> <span class="pl-c1">=</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">documentElement</span><span class="pl-kos">.</span><span class="pl-c1">scrollHeight</span> <span class="pl-c1">-</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">documentElement</span><span class="pl-kos">.</span><span class="pl-c1">clientHeight</span><span class="pl-kos">;</span>
+
+<span class="pl-smi">window</span><span class="pl-kos">.</span><span class="pl-en">addEventListener</span><span class="pl-kos">(</span><span class="pl-s">'scroll'</span><span class="pl-kos">,</span> <span class="pl-kos">(</span><span class="pl-kos">)</span> <span class="pl-c1">=&gt;</span> <span class="pl-kos">{</span>
+  <span class="pl-k">const</span> <span class="pl-s1">scrollTop</span> <span class="pl-c1">=</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">body</span><span class="pl-kos">.</span><span class="pl-c1">scrollTop</span> <span class="pl-c1">||</span> <span class="pl-smi">document</span><span class="pl-kos">.</span><span class="pl-c1">documentElement</span><span class="pl-kos">.</span><span class="pl-c1">scrollTop</span><span class="pl-kos">;</span>
+  <span class="pl-c">// 当前进度条进度 = 当前滚动条位置 / 滚动条高度</span>
+  <span class="pl-s1">scrollProgress</span><span class="pl-kos">.</span><span class="pl-c1">style</span><span class="pl-kos">.</span><span class="pl-c1">width</span> <span class="pl-c1">=</span> <span class="pl-s">`<span class="pl-s1"><span class="pl-kos">${</span><span class="pl-kos">(</span><span class="pl-s1">scrollTop</span> <span class="pl-c1">/</span> <span class="pl-s1">height</span><span class="pl-kos">)</span> <span class="pl-c1">*</span> <span class="pl-c1">100</span><span class="pl-kos">}</span></span>%`</span><span class="pl-kos">;</span>
+<span class="pl-kos">}</span><span class="pl-kos">)</span><span class="pl-kos">;</span></pre></div>
+<h2><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> 实现</h2>
+<h3><g-emoji class="g-emoji" alias="large_orange_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f536.png">🔶</g-emoji> Vue3</h3>
+<div class="highlight highlight-text-html-vue position-relative" data-snippet-clipboard-copy-content="&lt;!-- ScrollProgress.vue --&gt;
+
+&lt;script setup lang=&quot;ts&quot;&gt;
+import { ref, onMounted, onUnmounted } from 'vue'
+
+// 在 `&lt;script setup&gt;` 标签下要使用 `props`，则需要使用 `defineProps` 进行声明
+const props = defineProps({
+  // 滚动容器 - 如果容器高度会发生变化，则需要对其进行监听，否则会滚动进度会出现计算误差
+  root: {
+    type: String,
+    default: '#app',
+    required: false,
+  },
+  // 滚动条的高度
+  height: {
+    type: String,
+    default: '4px',
+    required: false,
+  },
+  // 滚动条颜色
+  theme: {
+    type: String,
+    default: '#3eaf7c',
+    required: false,
+    validator: (v: string) =&gt; {
+      document.head.style.color = v
+      const q = document.head.style.color
+      document.head.style.color = ''
+      return !!q
+    },
+  },
+  // 滚动条放置的位置：顶部或底部
+  placement: {
+    type: String,
+    default: 'top',
+    required: false,
+    validator: (v: string) =&gt; {
+      if (!['top', 'bottom'].includes(v)) {
+        console.error(`[ScrollProgress(placement)] The value must match one of these strings: 'top' | 'bottom'`)
+        return false
+      }
+      return true
+    },
+  },
+  // 滚动条在页面中的层级
+  zIndex: {
+    type: [Number, String],
+    default: 10000,
+    required: false,
+    validator: (v: string) =&gt; /^-?[\d]+$/.test(v),
+  },
+})
+
+const el = ref(null)
+const appHeight = ref(0)
+
+// 为了避免进度条因页面容器高度变化导致计算偏差，需要对页面容器进行监听，动态获取其高度
+onMounted(() =&gt; {
+  // 需要观察变动的节点
+  const targetNode = document.querySelector(props.root)
+  if (!targetNode) return console.error(`[ScrollProgress(root)] '${props.root}' is invalid`)
+  // 观察器的配置（需要观察什么变动）
+  const config = { attributes: true, childList: false, subtree: true }
+  // 创建一个观察器实例并传入当观察到变动时执行的回调函数
+  const observer = new MutationObserver((mutationsList: MutationRecord[]) =&gt; {
+    // Use traditional 'for loops' for IE 11
+    for(let mutation of mutationsList) {
+      if (mutation.type === 'attributes') {
+        appHeight.value = document.documentElement.scrollHeight
+      }
+    }
+  })
+  // 开始观察目标节点
+  observer.observe(targetNode, config)
+})
+
+// 滚动事件执行的回调函数
+const listener = () =&gt; {
+  const scrollProgress = el.value
+  const height = appHeight.value - document.documentElement.clientHeight
+  const scrollTop = document.body.scrollTop || document.documentElement.scrollTop
+  scrollProgress.style.width = `${(scrollTop / height) * 100}%`
+}
+
+onMounted(() =&gt; window.addEventListener('scroll', listener))
+onUnmounted(() =&gt; window.removeEventListener('scroll', listener))
+
+const style: any = {
+  background: props.theme,
+  zIndex: props.zIndex,
+  height: props.height,
+}
+
+if (props.placement === 'top') style.top = 0
+if (props.placement === 'bottom') style.bottom = 0
+
+// 在 `&lt;script setup&gt;` 标签下显式公开属性，则需要使用 `defineExpose`
+defineExpose({ style })
+&lt;/script&gt;
+
+&lt;template&gt;
+  &lt;div id=&quot;scroll_progress&quot; ref=&quot;el&quot; :style=&quot;style&quot; /&gt;
+&lt;/template&gt;
+
+&lt;style scoped&gt;
+#scroll_progress {
+  position: fixed;
+  width: 0%;
+  transition: width 300ms ease-out;
+}
+&lt;/style&gt;
+"><pre><span class="pl-c"><span class="pl-c">&lt;!--</span> ScrollProgress.vue <span class="pl-c">--&gt;</span></span>
+
+<span class="pl-s1">&lt;<span class="pl-ent">script</span> <span class="pl-e">setup</span> <span class="pl-e">lang</span>=<span class="pl-s"><span class="pl-pds">"</span>ts<span class="pl-pds">"</span></span>&gt;</span>
+<span class="pl-s1"><span class="pl-k">import</span> { <span class="pl-smi">ref</span>, <span class="pl-smi">onMounted</span>, <span class="pl-smi">onUnmounted</span> } <span class="pl-k">from</span> <span class="pl-s"><span class="pl-pds">'</span>vue<span class="pl-pds">'</span></span></span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 在 `&lt;script setup&gt;` 标签下要使用 `props`，则需要使用 `defineProps` 进行声明</span></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> props <span class="pl-k">=</span> <span class="pl-en">defineProps</span>({</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动容器 - 如果容器高度会发生变化，则需要对其进行监听，否则会滚动进度会出现计算误差</span></span>
+<span class="pl-s1">  root: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>#app<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条的高度</span></span>
+<span class="pl-s1">  height: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>4px<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条颜色</span></span>
+<span class="pl-s1">  theme: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>#3eaf7c<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">    <span class="pl-en">validator</span>: (<span class="pl-v">v</span><span class="pl-k">:</span> <span class="pl-c1">string</span>) <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">      <span class="pl-c1">document</span>.<span class="pl-smi">head</span>.<span class="pl-c1">style</span>.<span class="pl-c1">color</span> <span class="pl-k">=</span> <span class="pl-smi">v</span></span>
+<span class="pl-s1">      <span class="pl-k"><span class="pl-k">const</span></span> q <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-smi">head</span>.<span class="pl-c1">style</span>.<span class="pl-c1">color</span></span>
+<span class="pl-s1">      <span class="pl-c1">document</span>.<span class="pl-smi">head</span>.<span class="pl-c1">style</span>.<span class="pl-c1">color</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">'</span><span class="pl-pds">'</span></span></span>
+<span class="pl-s1">      <span class="pl-k">return</span> <span class="pl-k">!!</span><span class="pl-smi">q</span></span>
+<span class="pl-s1">    },</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条放置的位置：顶部或底部</span></span>
+<span class="pl-s1">  placement: {</span>
+<span class="pl-s1">    type: <span class="pl-c1">String</span>,</span>
+<span class="pl-s1">    default: <span class="pl-s"><span class="pl-pds">'</span>top<span class="pl-pds">'</span></span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">    <span class="pl-en">validator</span>: (<span class="pl-v">v</span><span class="pl-k">:</span> <span class="pl-c1">string</span>) <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">      <span class="pl-k">if</span> (<span class="pl-k">!</span>[<span class="pl-s"><span class="pl-pds">'</span>top<span class="pl-pds">'</span></span>, <span class="pl-s"><span class="pl-pds">'</span>bottom<span class="pl-pds">'</span></span>].<span class="pl-en">includes</span>(<span class="pl-smi">v</span>)) {</span>
+<span class="pl-s1">        <span class="pl-c1">console</span>.<span class="pl-c1">error</span>(<span class="pl-s"><span class="pl-pds">`</span>[ScrollProgress(placement)] The value must match one of these strings: 'top' | 'bottom'<span class="pl-pds">`</span></span>)</span>
+<span class="pl-s1">        <span class="pl-k">return</span> <span class="pl-c1">false</span></span>
+<span class="pl-s1">      }</span>
+<span class="pl-s1">      <span class="pl-k">return</span> <span class="pl-c1">true</span></span>
+<span class="pl-s1">    },</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 滚动条在页面中的层级</span></span>
+<span class="pl-s1">  zIndex: {</span>
+<span class="pl-s1">    type: [<span class="pl-c1">Number</span>, <span class="pl-c1">String</span>],</span>
+<span class="pl-s1">    default: <span class="pl-c1">10000</span>,</span>
+<span class="pl-s1">    required: <span class="pl-c1">false</span>,</span>
+<span class="pl-s1">    <span class="pl-en">validator</span>: (<span class="pl-v">v</span><span class="pl-k">:</span> <span class="pl-c1">string</span>) <span class="pl-k">=&gt;</span><span class="pl-sr"> <span class="pl-pds">/</span><span class="pl-k">^</span>-<span class="pl-k">?</span><span class="pl-c1">[<span class="pl-c1">\d</span>]</span><span class="pl-k">+</span><span class="pl-k">$</span><span class="pl-pds">/</span></span>.<span class="pl-c1">test</span>(<span class="pl-smi">v</span>),</span>
+<span class="pl-s1">  },</span>
+<span class="pl-s1">})</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> el <span class="pl-k">=</span> <span class="pl-en">ref</span>(<span class="pl-c1">null</span>)</span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> appHeight <span class="pl-k">=</span> <span class="pl-en">ref</span>(<span class="pl-c1">0</span>)</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 为了避免进度条因页面容器高度变化导致计算偏差，需要对页面容器进行监听，动态获取其高度</span></span>
+<span class="pl-s1"><span class="pl-en">onMounted</span>(() <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 需要观察变动的节点</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> targetNode <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">querySelector</span>(<span class="pl-smi">props</span>.<span class="pl-smi">root</span>)</span>
+<span class="pl-s1">  <span class="pl-k">if</span> (<span class="pl-k">!</span><span class="pl-smi">targetNode</span>) <span class="pl-k">return</span> <span class="pl-c1">console</span>.<span class="pl-c1">error</span>(<span class="pl-s"><span class="pl-pds">`</span>[ScrollProgress(root)] '${<span class="pl-smi">props</span>.<span class="pl-smi">root</span>}' is invalid<span class="pl-pds">`</span></span>)</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 观察器的配置（需要观察什么变动）</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> config <span class="pl-k">=</span> { attributes: <span class="pl-c1">true</span>, childList: <span class="pl-c1">false</span>, subtree: <span class="pl-c1">true</span> }</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 创建一个观察器实例并传入当观察到变动时执行的回调函数</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> observer <span class="pl-k">=</span> <span class="pl-k">new</span> <span class="pl-c1">MutationObserver</span>((<span class="pl-v">mutationsList</span><span class="pl-k">:</span> <span class="pl-en">MutationRecord</span>[]) <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">    <span class="pl-c"><span class="pl-c">//</span> Use traditional 'for loops' for IE 11</span></span>
+<span class="pl-s1">    <span class="pl-k">for</span>(<span class="pl-k">let</span> mutation <span class="pl-k">of</span> <span class="pl-smi">mutationsList</span>) {</span>
+<span class="pl-s1">      <span class="pl-k">if</span> (<span class="pl-smi">mutation</span>.<span class="pl-c1">type</span> <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">'</span>attributes<span class="pl-pds">'</span></span>) {</span>
+<span class="pl-s1">        <span class="pl-smi">appHeight</span>.<span class="pl-c1">value</span> <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">documentElement</span>.<span class="pl-smi">scrollHeight</span></span>
+<span class="pl-s1">      }</span>
+<span class="pl-s1">    }</span>
+<span class="pl-s1">  })</span>
+<span class="pl-s1">  <span class="pl-c"><span class="pl-c">//</span> 开始观察目标节点</span></span>
+<span class="pl-s1">  <span class="pl-smi">observer</span>.<span class="pl-c1">observe</span>(<span class="pl-smi">targetNode</span>, <span class="pl-smi">config</span>)</span>
+<span class="pl-s1">})</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 滚动事件执行的回调函数</span></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> listener <span class="pl-k">=</span> () <span class="pl-k">=&gt;</span> {</span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> scrollProgress <span class="pl-k">=</span> <span class="pl-smi">el</span>.<span class="pl-c1">value</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> height <span class="pl-k">=</span> <span class="pl-smi">appHeight</span>.<span class="pl-c1">value</span> <span class="pl-k">-</span> <span class="pl-c1">document</span>.<span class="pl-c1">documentElement</span>.<span class="pl-smi">clientHeight</span></span>
+<span class="pl-s1">  <span class="pl-k"><span class="pl-k">const</span></span> scrollTop <span class="pl-k">=</span> <span class="pl-c1">document</span>.<span class="pl-c1">body</span>.<span class="pl-smi">scrollTop</span> <span class="pl-k">||</span> <span class="pl-c1">document</span>.<span class="pl-c1">documentElement</span>.<span class="pl-smi">scrollTop</span></span>
+<span class="pl-s1">  <span class="pl-smi">scrollProgress</span>.<span class="pl-c1">style</span>.<span class="pl-c1">width</span> <span class="pl-k">=</span> <span class="pl-s"><span class="pl-pds">`</span>${(<span class="pl-smi">scrollTop</span> <span class="pl-k">/</span> <span class="pl-smi">height</span>) <span class="pl-k">*</span> <span class="pl-c1">100</span>}%<span class="pl-pds">`</span></span></span>
+<span class="pl-s1">}</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-en">onMounted</span>(() <span class="pl-k">=&gt;</span> <span class="pl-c1">window</span>.<span class="pl-c1">addEventListener</span>(<span class="pl-s"><span class="pl-pds">'</span>scroll<span class="pl-pds">'</span></span>, <span class="pl-smi">listener</span>))</span>
+<span class="pl-s1"><span class="pl-en">onUnmounted</span>(() <span class="pl-k">=&gt;</span> <span class="pl-c1">window</span>.<span class="pl-c1">removeEventListener</span>(<span class="pl-s"><span class="pl-pds">'</span>scroll<span class="pl-pds">'</span></span>, <span class="pl-smi">listener</span>))</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-k"><span class="pl-k">const</span></span> style<span class="pl-k">:</span> <span class="pl-c1">any</span> <span class="pl-k">=</span> {</span>
+<span class="pl-s1">  background: <span class="pl-smi">props</span>.<span class="pl-smi">theme</span>,</span>
+<span class="pl-s1">  zIndex: <span class="pl-smi">props</span>.<span class="pl-c1">zIndex</span>,</span>
+<span class="pl-s1">  height: <span class="pl-smi">props</span>.<span class="pl-c1">height</span>,</span>
+<span class="pl-s1">}</span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-k">if</span> (<span class="pl-smi">props</span>.<span class="pl-smi">placement</span> <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">'</span>top<span class="pl-pds">'</span></span>) <span class="pl-smi">style</span>.<span class="pl-c1">top</span> <span class="pl-k">=</span> <span class="pl-c1">0</span></span>
+<span class="pl-s1"><span class="pl-k">if</span> (<span class="pl-smi">props</span>.<span class="pl-smi">placement</span> <span class="pl-k">===</span> <span class="pl-s"><span class="pl-pds">'</span>bottom<span class="pl-pds">'</span></span>) <span class="pl-smi">style</span>.<span class="pl-c1">bottom</span> <span class="pl-k">=</span> <span class="pl-c1">0</span></span>
+<span class="pl-s1"></span>
+<span class="pl-s1"><span class="pl-c"><span class="pl-c">//</span> 在 `&lt;script setup&gt;` 标签下显式公开属性，则需要使用 `defineExpose`</span></span>
+<span class="pl-s1"><span class="pl-en">defineExpose</span>({ <span class="pl-smi">style</span> })</span>
+<span class="pl-s1">&lt;/<span class="pl-ent">script</span>&gt;</span>
+
+&lt;<span class="pl-ent">template</span>&gt;
+  &lt;<span class="pl-ent">div</span> <span class="pl-e">id</span>=<span class="pl-s"><span class="pl-pds">"</span>scroll_progress<span class="pl-pds">"</span></span> <span class="pl-e">ref</span>=<span class="pl-s"><span class="pl-pds">"</span>el<span class="pl-pds">"</span></span> :<span class="pl-e">style</span>=<span class="pl-s1"><span class="pl-pds">"</span>style<span class="pl-pds">"</span></span> /&gt;
+&lt;/<span class="pl-ent">template</span>&gt;
+
+<span class="pl-s1">&lt;<span class="pl-ent">style</span> <span class="pl-e">scoped</span>&gt;</span>
+<span class="pl-s1"><span class="pl-e">#scroll_progress</span> {</span>
+<span class="pl-s1">  <span class="pl-c1"><span class="pl-c1">position</span></span>: <span class="pl-c1">fixed</span>;</span>
+<span class="pl-s1">  <span class="pl-c1"><span class="pl-c1">width</span></span>: <span class="pl-c1">0<span class="pl-k">%</span></span>;</span>
+<span class="pl-s1">  <span class="pl-c1"><span class="pl-c1">transition</span></span>: width <span class="pl-c1">300<span class="pl-k">ms</span></span> <span class="pl-c1">ease-out</span>;</span>
+<span class="pl-s1">}</span>
+<span class="pl-s1">&lt;/<span class="pl-ent">style</span>&gt;</span></pre></div>
+<h2><g-emoji class="g-emoji" alias="movie_camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a5.png">🎥</g-emoji> 演示</h2>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/133965898-4994f377-68de-4c6c-8d19-d00a61625c06.gif"><img src="https://user-images.githubusercontent.com/16164244/133965898-4994f377-68de-4c6c-8d19-d00a61625c06.gif" alt="scroll_progress_bar" style="max-width: 100%;"></a></p>
+<hr>
+<h2><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> 参考</h2>
+<ul>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/Document/scroll_event" rel="nofollow">[MDN] Document: scroll event</a> - 文档视图或者一个元素在滚动时，会触发元素的scroll事件。</li>
+<li><a href="https://developer.mozilla.org/zh-CN/docs/Web/API/MutationObserver" rel="nofollow">[MDN] MutationObserver</a> - 接口提供了监视对 <code>DOM树</code> 所做更改的能力。它被设计为旧的 <code>Mutation Events</code> 功能的替代品，该功能是 <code>DOM3 Events</code> 规范的一部分。</li>
+<li><a href="https://v3.vuejs.org/" rel="nofollow">Vue3 API</a>
+<ul>
+<li><a href="https://v3.vuejs.org/api/options-data.html#props" rel="nofollow">props</a></li>
+<li><a href="https://v3.vuejs.org/api/sfc-script-setup.html#basic-syntax" rel="nofollow">&lt;script setup&gt;</a></li>
+<li><a href="https://v3.vuejs.org/api/composition-api.html#lifecycle-hooks" rel="nofollow">Lifecycle Hooks</a></li>
+<li><a href="https://v3.vuejs.org/api/sfc-script-setup.html#defineprops-and-defineemits" rel="nofollow">defineProps and defineEmits</a></li>
+<li><a href="https://v3.vuejs.org/api/sfc-script-setup.html#defineexpose" rel="nofollow">defineExpose</a></li>
+</ul>
+</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Awesome  React]]></title>
+  <link>https://github.com/lencx/z/discussions/11</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/11</guid>
+  <pubDate>2021-09-24</pubDate>
+  <description><![CDATA[<h3>Frame</h3>
+<ul>
+<li><a href="https://create-react-app.dev/" rel="nofollow">Create React App</a> - Set up a modern web app by running one command.</li>
+<li><a href="https://umijs.org/" rel="nofollow">UmiJS</a> - <g-emoji class="g-emoji" alias="rice_ball" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f359.png">🍙</g-emoji> Extensible enterprise-level front-end application framework.</li>
+<li><a href="https://github.com/vitejs/vite/tree/main/packages/create-vite">create-vite</a> - Scaffolding Your First Vite Project</li>
+</ul>
+<h3>UI &amp; Components</h3>
+<ul>
+<li><a href="https://github.com/mui-org/material-ui">Material-UI</a> - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.</li>
+<li><a href="https://github.com/ant-design/ant-design">Ant Design</a> - An enterprise-class UI design language and React UI library.</li>
+<li><a href="https://github.com/chakra-ui/chakra-ui">Chakra UI</a> - <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡️</g-emoji> Simple, Modular &amp; Accessible UI Components for your React Applications</li>
+<li><a href="https://github.com/bytedance/guide">bytedance/guide</a> - A new feature guide component by react <g-emoji class="g-emoji" alias="compass" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ed.png">🧭</g-emoji></li>
+<li><a href="https://github.com/jedwatson/react-select">React-Select</a> - The Select Component for React.js</li>
+<li><a href="https://github.com/timolins/react-hot-toast">react-hot-toast</a> - Smoking hot React Notifications <g-emoji class="g-emoji" alias="fire" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f525.png">🔥</g-emoji></li>
+<li><a href="https://github.com/xiaolin/react-image-gallery">React Image Gallery</a> - React carousel image gallery component with thumbnail support <g-emoji class="g-emoji" alias="framed_picture" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5bc.png">🖼</g-emoji></li>
+<li><a href="https://github.com/brillout/awesome-react-components"><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Absolutely Awesome React Components &amp; Libraries</a> - Curated List of React Components &amp; Libraries.</li>
+<li><a href="https://github.com/fkhadra/react-toastify">react-toastify</a> - React notification made easy <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> !</li>
+<li><a href="https://github.com/atlassian/react-beautiful-dnd">react-beautiful-dnd</a> - Beautiful and accessible drag and drop for lists with React.</li>
+</ul>
+<h3>Hooks</h3>
+<ul>
+<li><a href="https://github.com/rehooks/awesome-react-hooks">awesome-react-hooks</a> - Awesome React Hooks</li>
+<li><a href="https://github.com/streamich/react-use">react-use</a> - React Hooks — <g-emoji class="g-emoji" alias="+1" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44d.png">👍</g-emoji></li>
+<li><a href="https://github.com/imbhargav5/rooks">rooks</a> - Essential React custom hooks <g-emoji class="g-emoji" alias="anchor" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2693.png">⚓</g-emoji> to super charge your components!</li>
+<li><a href="https://github.com/pmndrs/use-gesture">@use-gesture</a> - <g-emoji class="g-emoji" alias="point_down" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f447.png">👇</g-emoji>Bread n butter utility for component-tied mouse/touch gestures in React and Vanilla Javascript.</li>
+<li><a href="https://github.com/ava/use-http">useFetch</a> - <g-emoji class="g-emoji" alias="dog" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f436.png">🐶</g-emoji> React hook for making isomorphic http requests</li>
+<li><a href="https://github.com/pmndrs/use-cannon">@react-three/cannon</a> - <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">💣</g-emoji> physics based hooks for react-three-fiber</li>
+<li><a href="https://github.com/Swizec/useAuth">useAuth</a> - The simplest way to add authentication to your React app. Supports various providers.</li>
+<li><a href="https://github.com/alewin/useWorker">useWorker</a> - A React Hook for Blocking-Free Background Tasks</li>
+<li><a href="https://github.com/joshwcomeau/use-sound">useSound</a> - A React Hook for playing sound effects</li>
+<li><a href="https://github.com/react-hook-form/react-hook-form">react-hook-form</a> - <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">📋</g-emoji> React Hooks for forms validation (Web + React Native)</li>
+</ul>
+<h3>State</h3>
+<ul>
+<li><a href="https://github.com/reduxjs/react-redux">react-redux</a> - Official React bindings for Redux.
+<ul>
+<li><a href="https://github.com/reduxjs/redux-toolkit">@reduxjs/toolkit</a> - The official, opinionated, batteries-included toolset for efficient Redux development</li>
+</ul>
+</li>
+<li><a href="https://github.com/facebookexperimental/recoil">recoil</a> - Recoil is an experimental state management library for React apps. It provides several capabilities that are difficult to achieve with React alone, while being compatible with the newest features of React.</li>
+<li><a href="https://github.com/bluebill1049/little-state-machine">little-state-machine</a> - <g-emoji class="g-emoji" alias="fax" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e0.png">📠</g-emoji> React custom hook for persist state management</li>
+<li><a href="https://github.com/mobxjs/mobx">mobx</a> - Simple, scalable state management.</li>
+<li><a href="https://github.com/umijs">UmiJS</a> - Extensible enterprise-level front-end application framework.
+<ul>
+<li><a href="https://github.com/dvajs/dva">dva</a> -  <g-emoji class="g-emoji" alias="seedling" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f331.png">🌱</g-emoji> React and redux based, lightweight and elm-style framework. (Inspired by elm and choo)</li>
+<li><a href="https://github.com/umijs/plugins/tree/master/packages/plugin-model">@umijs/plugin-model</a> -A simple state management solution based on hooks (can be replacement of dva in some cases).</li>
+<li><a href="https://github.com/umijs/hox">hox</a> - The next-generation state manager for React.</li>
+</ul>
+</li>
+<li><a href="https://github.com/immerjs/immer">immer</a> - Create the next immutable state by mutating the current one.</li>
+<li><a href="https://github.com/jamiebuilds/unstated-next">unstated-next</a> - 200 bytes to never think about React state management libraries ever again.</li>
+<li><a href="https://github.com/effector/effector">effector</a> - The state manager <g-emoji class="g-emoji" alias="comet" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2604.png">☄️</g-emoji></li>
+<li><a href="https://github.com/pmndrs/valtio">valtio</a> - <g-emoji class="g-emoji" alias="pill" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f48a.png">💊</g-emoji> Valtio makes proxy-state simple for React and Vanilla.</li>
+<li><a href="https://github.com/ctrlplusb/easy-peasy">easy-peasy</a> - Vegetarian friendly state for React.</li>
+<li><a href="https://github.com/diegohaz/constate">constate</a> - React Context + State</li>
+<li><a href="https://github.com/RisingStack/react-easy-state">react-easy-state</a> - Simple React state management. Made with <g-emoji class="g-emoji" alias="heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2764.png">❤️</g-emoji> and ES6 Proxies.</li>
+<li><a href="https://github.com/lostpebble/pullstate">pullstate</a> - Simple state stores using immer and React hooks - re-use parts of your state by pulling it anywhere you like!</li>
+</ul>
+<h3>Animation</h3>
+<ul>
+<li><a href="https://react-spring.io/" rel="nofollow">react-spring</a> - bring your components to life with simple spring animation primitives</li>
+<li><a href="https://github.com/chenglou/react-motion">React-Motion</a> - A spring that solves your animation problems.</li>
+<li><a href="https://github.com/framer/motion">Framer Motion</a> - Open source, production-ready animation and gesture library for React</li>
+<li><a href="https://github.com/reactjs/react-transition-group">react-transition-group</a> - An easy way to perform animations when a React component enters or leaves the DOM</li>
+<li><a href="https://github.com/sghall/react-move">React Move</a> - React Move | Beautiful, data-driven animations for React</li>
+</ul>
+<h3>Browser Extension</h3>
+<ul>
+<li><a href="https://github.com/reduxjs/redux-devtools">Redux DevTools</a> - DevTools for Redux with hot reloading, action replay, and customizable UI.</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[开发问题汇总]]></title>
+  <link>https://github.com/lencx/z/discussions/71</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/71</guid>
+  <pubDate>2021-09-23</pubDate>
+  <description><![CDATA[<p><a href="https://github.com/lencx/z/discussions/70" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/70/hovercard">解决问题之经验篇</a></p>
+<blockquote>
+<p>问题清单</p>
+</blockquote>
+<ul>
+<li>什么是 <code>disk-cache</code></li>
+<li>浏览器缓存问题（线上代码未更新）</li>
+<li>...</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[解决问题之经验篇]]></title>
+  <link>https://github.com/lencx/z/discussions/70</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/70</guid>
+  <pubDate>2021-09-23</pubDate>
+  <description><![CDATA[<blockquote>
+<p>问题不可能被穷举，答案经验有时候并不足以让我们应付千奇百怪的问题。在题海中，培养自己分析，定位，解决问题的能力似乎才是我们唯一的出路（以不变应万变）。</p>
+</blockquote>
+<p><strong>一般问题解决步骤：</strong></p>
+<ol>
+<li><code>遇到问题</code>（不要慌）
+<ul>
+<li>这个问题没见过，咋搞呀</li>
+<li>我正好有个技术群，丢个报错截图去问问</li>
+<li>...</li>
+</ul>
+</li>
+<li><code>分析问题</code>（抽丝剥茧）
+<ul>
+<li>多问自己为什么，从问题报错处，排除干扰，向上 <code>debugger</code></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%B0%8F%E9%BB%84%E9%B8%AD%E8%B0%83%E8%AF%95%E6%B3%95" rel="nofollow">小黄鸭调试法</a> - 小黄鸭调试法，又称橡皮鸭调试法、黄鸭除虫法（Rubber Duck Debugging）是可在软件工程中使用的一种调试代码的方法。方法就是在程序的调试或测试过程中，操作人耐心地向小黄鸭解释每一行程序的作用，以此来激发灵感与发现矛盾</li>
+</ul>
+</li>
+<li><code>描述问题</code>（提取关键词）
+<ul>
+<li><code>清楚表达问题</code> - 很重要，直接影响到后面的关键词提取</li>
+<li><code>关键词转英文</code> - 推荐两个翻译网站 <a href="https://translate.google.cn/" rel="nofollow">Google 翻译</a> 和 <a href="https://www.deepl.com/" rel="nofollow">Deepl</a></li>
+</ul>
+</li>
+<li><code>关键词搜索</code>（中，英文）
+<ul>
+<li><code>中文</code> - 国内太卷，抄袭严重，问题没有出处。除非是特定问题（微信小程序之类的问题），否则不建议使用中文搜索</li>
+<li><code>英文</code> - 质量要高很多，推荐使用 <a href="https://www.google.com/" rel="nofollow">Google</a> 搜索，替代品 <a href="https://www.bing.com/" rel="nofollow">Bing</a> 搜索</li>
+</ul>
+</li>
+<li><code>解决问题</code>（总结经验）
+<ul>
+<li><code>反思总结</code> - 沉淀是为了让自己能够举一反三</li>
+<li><code>分享经验</code> - 表达是为了进一步加深理解</li>
+</ul>
+</li>
+</ol>
+<p><strong>如果以上步骤无法解决问题，向别人请教之前，以下几点是必须要做的：</strong></p>
+<ul>
+<li><code>看官方文档</code>（重要的事情说三遍）</li>
+<li><code>开源库或框架遇到问题，逛社区</code>（别偷懒） - <a href="https://guides.github.com/features/issues/">issues</a>，<a href="https://docs.github.com/en/discussions">discussions</a>，<a href="https://stackoverflow.com/" rel="nofollow">stack overflow</a> 必看</li>
+<li><code>问题仍无法解决，则需剥离业务逻辑，提供最小复现用例</code>（节约彼此时间）- 别人未遇到过的问题，并不能靠空想解答，即使可以，也不建议进行这样的试探</li>
+</ul>
+<p><strong>如果以上步骤都做了，仍然无法解决问题，则可以在项目 <code>issues</code> 或 <code>stack overflow</code> 等问题社区发起提问：</strong></p>
+<ul>
+<li><code>问题描述</code> - 简洁清楚的表达问题，切记啰嗦</li>
+<li><code>环境信息</code> - 问题发生的环境（系统信息，软件版本，浏览器版本等）</li>
+<li><code>如何复现</code> - 提供问题复现步骤 1，2，3，可以配合适当的错误截图及说明
+<ul>
+<li><code>复现用例</code> - 用例要排除业务干扰，缩小问题范围</li>
+<li><code>我的尝试</code> - 自己做过哪些尝试，也可以让别人快速排除一些干扰项</li>
+</ul>
+</li>
+<li><code>预期结果</code> - 希望得到什么样的结果</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[lencx 的 vscode 配置]]></title>
+  <link>https://github.com/lencx/z/discussions/41</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/41</guid>
+  <pubDate>2021-09-13</pubDate>
+  <description><![CDATA[<h2>Terminal</h2>
+<ul>
+<li><a href="https://ohmyz.sh" rel="nofollow">Oh My Zsh</a> - Unleash your terminal like never before.</li>
+<li><a href="https://github.com/starship/starship">starship</a> - <g-emoji class="g-emoji" alias="comet" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2604.png">☄</g-emoji><g-emoji class="g-emoji" alias="milky_way" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30c.png">🌌️</g-emoji> The minimal, blazing-fast, and infinitely customizable prompt for any shell!</li>
+</ul>
+<h2>Extensions</h2>
+<ul>
+<li><a href="https://github.com/lencx/vsg">vsg</a> - <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Explore Github repositories directly from Visual Studio Code.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub" rel="nofollow">Remote Repositories</a> - Remotely browse and edit a GitHub repository</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.copilot" rel="nofollow">GitHub Copilot</a> - Your AI pair programmer</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=adpyke.codesnap" rel="nofollow">CodeSnap</a> - <g-emoji class="g-emoji" alias="camera" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f7.png">📷</g-emoji> Take beautiful screenshots of your code</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare" rel="nofollow">Live Share</a> - Real-time collaborative development from the comfort of your favorite tools.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=xyz.local-history" rel="nofollow">Local History</a> - Save files into local history</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer" rel="nofollow">Bracket Pair Colorizer</a> - A customizable extension for colorizing matching brackets</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=mkxml.vscode-filesize" rel="nofollow">filesize</a> - Show the current file size in the status bar</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner" rel="nofollow">Code Runner</a> - Run C, C++, Java, JS, PHP, Python, Perl, Ruby, Go, Lua, Groovy, PowerShell, CMD, BASH, F#, C#, VBScript, TypeScript, CoffeeScript, Scala, Swift, Julia, Crystal, OCaml, R, AppleScript, Elixir, VB.NET, Clojure, Haxe, Obj-C, Rust, Racket, Scheme, AutoHotkey, AutoIt, Kotlin, Dart, Pascal, Haskell, Nim...</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow" rel="nofollow">indent-rainbow</a> - Makes indentation easier to read</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode" rel="nofollow">Prettier - Code formatter</a> - Code formatter using prettier</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=vincaslt.highlight-matching-tag" rel="nofollow">Highlight Matching Tag</a> - Highlights matching closing and opening tags</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost" rel="nofollow">Import Cost</a> - Display import/require package size in the editor</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=tamasfe.even-better-toml" rel="nofollow">Even Better TOML</a> - Fully-featured TOML support</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker" rel="nofollow">Code Spell Checker</a> - Spelling checker for source code</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight" rel="nofollow">Color Highlight</a> - Highlight web colors in your editor</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=steoates.autoimport" rel="nofollow">Auto Import</a> - Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=mhutchie.git-graph" rel="nofollow">Git Graph</a> - View a Git Graph of your repository, and perform Git actions from the graph.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=alefragnani.Bookmarks" rel="nofollow">Bookmarks</a> - Mark lines and jump to them</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode" rel="nofollow">Quokka.js</a> - JavaScript and TypeScript playground in your editor.</li>
+</ul>
+<h3>Theme</h3>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple" rel="nofollow">Shades of Purple</a> - <g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">🦄</g-emoji> A professional theme suite with hand-picked &amp; bold shades of purple for your VS Code editor and terminal apps. One of the excellent, most downloaded, and top-rated VSCode Themes on the marketplace. Part of VSCode.pro course.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme" rel="nofollow">Material Icon Theme</a> - Material Design Icons for Visual Studio Code</li>
+</ul>
+<h3>TODO</h3>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=Gruntfuggly.todo-tree" rel="nofollow">Todo Tree</a> - Show TODO, FIXME, etc. comment tags in a tree view</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=aaron-bond.better-comments" rel="nofollow">Better Comments</a> - Improve your code commenting by annotating with alert, informational, TODOs, and more!</li>
+</ul>
+<h3>Preview</h3>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=GrapeCity.gc-excelviewer" rel="nofollow">Excel Viewer</a> - View Excel spreadsheets and CSV files within Visual Studio Code workspaces.</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-gutter-preview" rel="nofollow">Image preview</a> - Shows image preview in the gutter and on hover</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=SimonSiefke.svg-preview" rel="nofollow">Svg Preview</a> - Preview for Svg files</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=James-Yu.latex-workshop" rel="nofollow">LaTeX Workshop</a> - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.</li>
+</ul>
+<h3>Rust</h3>
+<ul>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=matklad.rust-analyzer" rel="nofollow">rust-analyzer</a> - An alternative rust language server to the RLS</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[JS 手写系列]]></title>
+  <link>https://github.com/lencx/z/discussions/63</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/63</guid>
+  <pubDate>2021-08-25</pubDate>
+  <description><![CDATA[<blockquote>
+<p>Implementation of Native JavaScript Methods</p>
+</blockquote>
+<p><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> 注意：不符合以下格式的评论将会被删除</p>
+<ul>
+<li>手写新（评论中不存在）的方法，建议新开评论，排版参考 <a href="https://github.com/lencx/z/discussions/63#discussioncomment-1137850" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/63/hovercard?comment_id=1137850">forEach</a>
+<ul>
+<li><g-emoji class="g-emoji" alias="point_right" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f449.png">👉</g-emoji> 方法名（必须）</li>
+<li><g-emoji class="g-emoji" alias="diamond_shape_with_a_dot_inside" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a0.png">💠</g-emoji> 语法（可须）</li>
+<li><g-emoji class="g-emoji" alias="warning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a0.png">⚠️</g-emoji> 注意（可选）</li>
+<li><g-emoji class="g-emoji" alias="writing_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/270d.png">✍️</g-emoji> 实现（必须）</li>
+<li><g-emoji class="g-emoji" alias="pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cc.png">📌</g-emoji> 测试（必须）</li>
+<li><g-emoji class="g-emoji" alias="link" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f517.png">🔗</g-emoji> 参考链接（可选）</li>
+</ul>
+</li>
+<li>针对某个手写方法的讨论，建议使用回复评论的形式</li>
+</ul>
+<hr>
+<p>查看源码 <a href="https://github.com/lencx/js-wheel">js-wheel</a></p>
+<hr>
+<h2>Standard</h2>
+<ul>
+<li>Promise</li>
+</ul>
+<details>
+<summary>Array</summary>
+<ul>
+<li><a href="https://github.com/lencx/z/discussions/63#discussioncomment-1137850" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/63/hovercard?comment_id=1137850">forEach</a></li>
+<li><a href="https://github.com/lencx/z/discussions/63#discussioncomment-1138630" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/63/hovercard?comment_id=1138630">map</a></li>
+<li>filter</li>
+<li>reduce</li>
+<li>every</li>
+<li>some</li>
+</ul>
+</details>
+<details>
+<summary>Function</summary>
+<ul>
+<li>call</li>
+<li>apply</li>
+<li>bind</li>
+</ul>
+</details>
+<details>
+<summary>Utils</summary>
+<ul>
+<li><a href="https://github.com/lencx/z/discussions/63#discussioncomment-1231964" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/63/hovercard?comment_id=1231964">curry</a></li>
+<li><a href="https://github.com/lencx/z/discussions/63#discussioncomment-1167601" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/63/hovercard?comment_id=1167601">sleep</a></li>
+</ul>
+</details>]]></description>
+</item>
+<item>
+  <title><![CDATA[欢迎来到《浮之静》社区]]></title>
+  <link>https://github.com/lencx/z/discussions/2</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/2</guid>
+  <pubDate>2021-08-25</pubDate>
+  <description><![CDATA[<h2><g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> Welcome!</h2>
+<p><strong>学无止境</strong></p>
+<p>您可以访问网站，有更好的阅读体验: <a href="https://lencx.tech" rel="nofollow">浮之静</a></p>
+<h2>仓库历史</h2>
+<blockquote>
+<p>这个仓库经历过数次大改版，从换名到换技术栈...</p>
+</blockquote>
+<h3>2021.07.01 - 至今</h3>
+<p><strong><code>z</code></strong> -【<g-emoji class="g-emoji" alias="part_alternation_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/303d.png">〽️</g-emoji> 浮之静 - 学无止境】<br>
+取 <code>fzj</code> 的中间字母，<code>z</code> 是一个很有意思的字母，像弹簧，蓄力愈久，反弹的力量就愈大。很符合 «浮之静» 之本意。</p>
+<h3>2021.05.24 - 2021.07.01</h3>
+<p><strong><code>fzj</code></strong> - 【<g-emoji class="g-emoji" alias="ocean" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png">🌊</g-emoji> 浮之静 - 源于前端，但不止于前端】<br>
+技术栈 - <code>vite + react + github discussions api</code></p>
+<h3>2021.05.23 - 2021.05.24</h3>
+<p><strong><code>sea</code></strong> -【<g-emoji class="g-emoji" alias="ocean" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png">🌊</g-emoji> 学海无涯】<br>
+技术栈 - <code>vitepress</code></p>
+<h3>2020.08.23 - 2021.05.17</h3>
+<p><strong><code>mtc</code></strong> - 【<g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">😎</g-emoji> My tools &amp; config, and awesome lists】<br>
+技术栈 - <code>vuepress</code>，<code>v2.0</code> 基于 <code>vitepress</code></p>
+<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png"><img src="https://user-images.githubusercontent.com/16164244/119298318-607bbf80-bc8f-11eb-98da-e8277efe3249.png" alt="image" style="max-width:100%;"></a></p>
+<h2>推荐系列</h2>
+<ul>
+<li><a href="https://github.com/lencx/z/discussions/44" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/44/hovercard">阅读打卡</a></li>
+<li><a href="https://github.com/lencx/z/discussions?discussions_q=label%3A%E5%BE%AE%E4%BF%A1%E6%9D%82%E8%B0%88">微信杂谈</a></li>
+<li><a href="https://github.com/lencx/z/discussions/49" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/49/hovercard">【自荐】- 文章 &amp; 开源</a></li>
+<li><a href="https://github.com/lencx/z/discussions/43" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/43/hovercard">Following 系列</a></li>
+<li><a href="https://github.com/lencx/z/discussions/22" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/22/hovercard">WebAssembly 系列</a></li>
+<li><a href="https://github.com/lencx/z/discussions/23" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/23/hovercard">macOS 系列</a></li>
+<li><a href="https://github.com/lencx/z/discussions/27" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/27/hovercard">终端命令行系列</a></li>
+<li><a href="https://github.com/lencx/z/discussions/8" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/8/hovercard">Web 开发指南</a></li>
+<li><a href="https://github.com/lencx/z/discussions/5" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/5/hovercard">CSS 系列</a></li>
+<li><a href="https://github.com/lencx/z/discussions/33" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/33/hovercard">JavaScript 系列</a></li>
+<li><a href="https://github.com/lencx/z/discussions/16" data-hovercard-type="discussion" data-hovercard-url="/lencx/z/discussions/16/hovercard">在线编辑器系列</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Awesome Vue]]></title>
+  <link>https://github.com/lencx/z/discussions/67</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/67</guid>
+  <pubDate>2021-08-20</pubDate>
+  <description><![CDATA[<h3>UI &amp; Components</h3>
+<ul>
+<li><a href="https://github.com/vuetifyjs/vuetify">Vuetify</a> - <g-emoji class="g-emoji" alias="dragon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f409.png">🐉</g-emoji> Material Component Framework for Vue</li>
+<li><a href="https://github.com/youzan/vant">Vant</a> - Lightweight Mobile UI Components built on Vue</li>
+<li><a href="https://github.com/vueComponent/ant-design-vue">Ant Design Vue</a> - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> An enterprise-class UI components based on Ant Design and Vue. <g-emoji class="g-emoji" alias="ant" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41c.png">🐜</g-emoji></li>
+<li><a href="https://github.com/ElemeFE/element">Element</a> - A Vue.js 2.0 UI Toolkit for Web
+<ul>
+<li><a href="https://github.com/element-plus/element-plus">Element Plus</a> - <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">🎉</g-emoji> A Vue.js 3.0 UI Library made by Element team</li>
+</ul>
+</li>
+<li><a href="https://github.com/jdf2e/nutui">NutUI 3</a> - 京东风格移动端 Vue2、Vue3 组件库 (A Vue.js UI Toolkit for Mobile Web)</li>
+<li><a href="https://github.com/pikax/vue-composable">vue-composable</a> - Vue composition-api composable components. i18n, validation, pagination, fetch, etc. +50 different composables</li>
+<li><a href="https://github.com/lusaxweb/vuesax">vuesax</a> - New Framework Components for Vue.js 2</li>
+<li><a href="https://github.com/troisjs/trois">trois</a> - <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> ThreeJS + VueJS 3 + ViteJS <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></li>
+</ul>
+<h3>Hooks</h3>
+<ul>
+<li><a href="https://github.com/vueuse/vueuse">VueUse</a> - Collection of essential Vue Composition Utilities for Vue 2 and 3</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[TODO]]></title>
+  <link>https://github.com/lencx/z/discussions/35</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/35</guid>
+  <pubDate>2021-08-19</pubDate>
+  <description><![CDATA[<p>TODO</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[TODO]]></title>
+  <link>https://github.com/lencx/z/discussions/66</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/66</guid>
+  <pubDate>2021-08-19</pubDate>
+  <description><![CDATA[<p>TODO</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[基于 GitHub Discussions 的 Blog 框架]]></title>
+  <link>https://github.com/lencx/z/discussions/68</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/68</guid>
+  <pubDate>2021-08-15</pubDate>
+  <description><![CDATA[<p>我是一个喜欢折腾的人，虽然文章没写几篇，但是 Blog 框架没少折腾，刚入行那会用蹩脚的前端技术自己实现，<del>就感觉越花哨，越能证明自己的实力，各种大投影，大圆角，奇怪的字体...</del> 随着认知的提升，懂得了内容才是核心，页面开始变得不那么花哨，使用 <a href="https://hexo.io/" rel="nofollow">Hexo</a>，<a href="https://www.gatsbyjs.com/" rel="nofollow">Gatsby</a>，自己实现 <a href="https://github.com/lencx/nofwl">nofwl 主题</a>。再到后来的 <a href="https://vuepress.vuejs.org/" rel="nofollow">vuepress</a>， <a href="https://vitepress.vuejs.org/" rel="nofollow">vitepress</a> 和 <a href="https://github.com/rust-lang/mdBook">mdBook</a>。全都被我换了一遍，总是感觉不合自己胃口，于是就萌生了自己写 Blog 框架的想法。</p>
+<h3>需求背景</h3>
+<p>我想做的 Blog 框架满足以下条件：</p>
+<ol>
+<li><code>实时性</code> - 可以随时随地编辑，与平台无关，同时支持手机，电脑，本地，在线编辑等</li>
+<li><code>所有权</code> - 我对数据的权限越大越好，这样我就可以根据自己的需要去渲染页面模版</li>
+<li><code>公众号</code> - 可以生成微信公众号文章（微信链接不支持跳转，需要生成脚注或二维码）</li>
+<li><code>RSS</code> - 支持 RSS 订阅</li>
+</ol>
+<h3>技术栈</h3>
+<p>Blog 框架的搭建本身也是学习的过程，技术栈一定要前沿，因为我喜欢折腾。结合上面的需求背景，经过多方面比较，最终选择了 <code>GitHub Discussions</code> 作为数据源。<code>vite + react</code> 作为 Blog 基本框架。</p>
+<p>最终用到的技术包含：</p>
+<ul>
+<li><a href="https://docs.github.com/en/graphql/guides/using-the-graphql-api-for-discussions">github discussions api</a> - 文章数据源，因为是接口请求，所以可以满足文章实时性及数据所有权需求</li>
+<li><a href="https://github.com/features/actions">github actions</a> - 执行定时任务（生成 RSS 文件，JSON 数据文件，微信文章等），及网站部署</li>
+<li><code>scripts</code> - 定时任务需要执行的脚本命令，用来满足公众号文章及 RSS 需求
+<ul>
+<li><a href="https://github.com/lencx/rgd">rgd</a> - <g-emoji class="g-emoji" alias="bento" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f371.png">🍱</g-emoji> GitHub Discussions API - RSS &amp; JSON</li>
+<li><a href="https://github.com/lencx/woap">woap</a> - <g-emoji class="g-emoji" alias="cyclone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f300.png">🌀</g-emoji> GitHub Discussions 生成微信文章 (支持二维码及脚注形式)</li>
+</ul>
+</li>
+<li><a href="https://www.apollographql.com/docs/react/" rel="nofollow">@apollo/client</a> - 是一个 JavaScript 状态管理库，能够使用 GraphQL 管理本地和远程数据。使用它来获取、缓存和修改应用程序数据，同时自动更新 UI。</li>
+<li><a href="https://vitejs.dev/" rel="nofollow">vite</a> - 下一代前端开发与构建工具</li>
+<li><a href="https://reactjs.org/" rel="nofollow">react</a> - 用于构建用户界面的 JavaScript 库</li>
+<li><a href="https://recoiljs.org/" rel="nofollow">recoil</a> - React 状态管理库</li>
+</ul>
+<h3>常见问题</h3>
+<h4>关于 Github Token</h4>
+<p>Blog 需要满足任何人在不经过 GitHub 登陆，或授权就可以访问网页，所以需要提供公共 <code>Token</code> 来请求数据。因为 <a href="https://docs.github.com/cn/github/authenticating-to-github/keeping-your-account-and-data-secure/creating-a-personal-access-token">GitHub Token</a> 存在每小时接口请求次数限制，超出请求次数会报错。官方文档建议缓存接口请求，但是整个 Blog 托管于 <a href="https://pages.github.com/">GitHub Pages</a> ，并不能缓存接口请求。</p>
+<h5>解决方案</h5>
+<p>使用 <code>rgd</code> 将接口数据生成 JSON 文件。当网站请求 GitHub API 超过次数限制，会自动降级请求部署后项目中的 json 文件。同时支持两种模式是因为：请求接口网站是实时的（体验效果好），请求的 json 文件是非实时（每天跑一次定时任务）。</p>
+<h4>关于 RSS</h4>
+<p>使用 <code>rgd</code> 生成 RSS 文件，每天执行一次定时任务（非实时）。</p>
+<h4>关于公众号</h4>
+<p>使用 <code>woap</code> 生成微信文章，每天执行一次定时任务（非实时）。<code>Discussions</code> 标签满足 <code>woap</code> 的标签规则就会将该文生成为微信文章。</p>
+<h5>标签规则</h5>
+<ul>
+<li><code>wechat-link</code> - 微信链接转为二维码，适合多链接场景</li>
+<li><code>wechat-post</code> - 微信链接转为脚注，适合多文字场景</li>
+</ul>
+<p>更多使用规则请查看 <a href="https://github.com/lencx/woap#%E5%8F%82%E6%95%B0">woap 参数</a>。</p>
+<h3>关于项目</h3>
+<ul>
+<li>查看源码 - <a href="https://github.com/lencx/z">https://github.com/lencx/z</a></li>
+<li>网站体验 - <a href="https://lencx.tech" rel="nofollow">https://lencx.tech</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[Awesome GitHub]]></title>
+  <link>https://github.com/lencx/z/discussions/65</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/65</guid>
+  <pubDate>2021-08-09</pubDate>
+  <description><![CDATA[<p>GitHub 全球最大的代码社区，这里有大量优秀的项目及源代码。下面这些插件针对 GitHub 做了很多功能优化，可以提高效率。</p>
+<hr>
+<ul>
+<li><a href="https://github.com/EnixCoda/Gitako">Gitako</a> - <g-emoji class="g-emoji" alias="octopus" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f419.png">🐙</g-emoji> File tree extension for GitHub on Chrome &amp; Firefox &amp; Edge
+<ul>
+<li><a href="https://www.octotree.io/" rel="nofollow">Octotree</a> - GitHub on steroids</li>
+</ul>
+</li>
+<li><a href="https://github.com/zenorocha/codecopy">CodeCopy</a> - A browser extension that adds copy to clipboard buttons on every code block</li>
+<li><a href="https://github.com/softvar/enhanced-github">Enhanced GitHub</a> - <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">🚀</g-emoji> Browser extension to display size of each file, download link and copy file contents directly to the clipboard</li>
+<li><a href="https://github.com/homerchen19/github-file-icons">File Icons for GitHub and GitLab</a> - <g-emoji class="g-emoji" alias="rainbow" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f308.png">🌈</g-emoji> <g-emoji class="g-emoji" alias="card_index_dividers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f5c2.png">🗂</g-emoji> A browser extension which gives different filetypes different icons to GitHub, GitLab, gitea and gogs.</li>
+<li><a href="https://github.com/OctoLinker/OctoLinker">OctoLinker</a> - Links together, what belongs together</li>
+<li><a href="https://github.com/sindresorhus/refined-github">Refined GitHub</a> - <img class="emoji" title=":octocat:" alt=":octocat:" src="https://github.githubassets.com/images/icons/emoji/octocat.png" height="20" width="20" align="absmiddle"> Browser extension that simplifies the GitHub interface and adds useful features</li>
+<li><a href="https://github.com/kamranahmedse/githunt">GitHunt</a> - Hunt the most starred projects on any date on GitHub</li>
+<li><a href="">Sourcegraph - Universal Code Search</a> - Find and fix things across all of your code with Sourcegraph universal code search.
+<ul>
+<li><a href="https://chrome.google.com/webstore/detail/sourcegraph/dgjhfomjieaadpoljlnidmbgkdffpack" rel="nofollow">chrome extensions</a></li>
+</ul>
+</li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=GitHub.remotehub" rel="nofollow">[vscode] Remote Repositories</a> - Remotely browse and edit a GitHub repository</li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[WebGL Series]]></title>
+  <link>https://github.com/lencx/z/discussions/6</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/6</guid>
+  <pubDate>2021-08-09</pubDate>
+  <description><![CDATA[<h2>Guide</h2>
+<ul>
+<li>Modern WebGL tutorials that teach WebGL from basic principles
+<ul>
+<li><a href="https://webglfundamentals.org" rel="nofollow">WebGL Fundamentals</a></li>
+<li><a href="https://webgl2fundamentals.org" rel="nofollow">WebGL2 Fundamentals</a></li>
+</ul>
+</li>
+<li><a href="https://get.webgl.org" rel="nofollow">Your browser supports WebGL?</a>
+<ul>
+<li><a href="https://www.khronos.org/webgl" rel="nofollow">WebGL Overview</a>: WebGL is a cross-platform, royalty-free web standard for a low-level 3D graphics API based on OpenGL ES, exposed to ECMAScript via the HTML5 Canvas element. Developers familiar with OpenGL ES 2.0 will recognize WebGL as a Shader-based API…</li>
+</ul>
+</li>
+<li><a href="https://github.com/akira-cn/ICG-WebGL">ICG-WebGL</a>: 交互式计算机图形学——基于WebGL的自顶向下方法（第七版）的例子与练习题</li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API" rel="nofollow">WebGL: 2D and 3D graphics for the web</a>: WebGL (Web Graphics Library) is a JavaScript API for rendering high-performance interactive 3D and 2D graphics within any compatible web browser without the use of plug-ins.</li>
+</ul>
+<h2>Open Source</h2>
+<ul>
+<li><a href="https://d3js.org/" rel="nofollow">D3.js - Data-Driven Documents</a> - D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS.</li>
+<li><a href="https://threejs.org/" rel="nofollow">Three.js</a> - JavaScript 3D Library</li>
+<li><a href="https://github.com/oframe/ogl">ogl</a> - Minimal WebGL Library</li>
+<li><a href="https://github.com/oasis-engine/engine">oasis-engine</a> - Oasis Engine is a web-first and mobile-first high-performance real-time development platform.</li>
+<li><a href="https://github.com/deepkolos/three-platformize">three-platformize</a> - 一个让 THREE 平台化的项目，目前已适配微信，淘宝，头条小程序，微信小游戏</li>
+</ul>
+<h2>Article</h2>
+<ul>
+<li><a href="https://tympanus.net/codrops/2021/08/02/magical-marbles-in-three-js/" rel="nofollow">Magical Marbles in Three.js</a></li>
+</ul>]]></description>
+</item>
+<item>
+  <title><![CDATA[CheatSheets for Developers]]></title>
+  <link>https://github.com/lencx/z/discussions/64</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/64</guid>
+  <pubDate>2021-08-09</pubDate>
+  <description><![CDATA[<p>随着网络编程技术的飞速发展，我们需要学习的知识量也在不断增加。有时您将无法记住编程语言或框架的所有语法、方法...... 为了解决上述问题，Cheat Sheet 应运而生。它将以系统和直观的方式综合所有语法、概念......，使您可以轻松找到在开发过程中应用的内容。</p>
+
+<hr>
+<ul>
+<li><a href="http://www.cheat-sheets.org/" rel="nofollow">Cheat-Sheets.org</a> - All cheat sheets, round-ups, quick reference cards, quick reference guides and quick reference sheets in one page. The only one you need.</li>
+<li><a href="https://github.com/LeCoupa/awesome-cheatsheets">Awesome Cheatsheets</a> - <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">👨‍💻</g-emoji> Awesome cheatsheets for popular programming languages, frameworks and development tools. They include everything you should know in one single file.</li>
+<li><a href="https://cheatography.com/" rel="nofollow">1540 Programming Cheat Sheets - Cheatography.com: Cheat Sheets For Every Occasion</a> - Over 4,000 Free Cheat Sheets, Revision Aids and Quick References!</li>
+<li><a href="https://devhints.io/" rel="nofollow">Devhints — TL;DR for developer documentation</a> - A ridiculous collection of web development cheatsheets · One-page guide to</li>
+<li><a href="https://github.com/yangshun/tech-interview-handbook">Tech Interview Handbook</a> - <g-emoji class="g-emoji" alias="100" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4af.png">💯</g-emoji> Curated interview preparation materials for busy engineers</li>
+<li><a href="https://overapi.com/" rel="nofollow">OverAPI.com | Collecting all the cheat sheets</a> - OverAPI.com is a site collecting all the cheatsheets,all!</li>
+</ul>
+<h2>JavaScript</h2>
+<ul>
+<li><a href="https://github.com/mechaniac/Map-of-Javascript">map of javascript</a> - Javascript on one sheet. (and one for algorithms)</li>
+<li><a href="http://www.cheat-sheets.org/sites/javascript.su/" rel="nofollow">JavaScript in one page</a></li>
+</ul>
+<h2>Rust</h2>
+<ul>
+<li><a href="https://github.com/usagi/rust-memory-container-cs">Rust Memory Container Cheat-sheet</a></li>
+</ul>
+<hr>
+<p>[更新中...]</p>]]></description>
+</item>
+<item>
+  <title><![CDATA[JavaScript Series]]></title>
+  <link>https://github.com/lencx/z/discussions/33</link>
+  <guid isPermaLink="false">https://github.com/lencx/z/discussions/33</guid>
+  <pubDate>2021-08-09</pubDate>
+  <description><![CDATA[<p>JavaScript ( JS ) 是一种具有 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/First-class_Function" rel="nofollow">函数优先</a> 的轻量级，解释型或即时编译型的编程语言。JavaScript 是一种基于 <a href="https://developer.mozilla.org/zh-CN/docs/Glossary/Prototype-based_programming" rel="nofollow">原型编程</a>、多范式的动态脚本语言，并且支持面向对象、命令式和声明式（如函数式编程）风格。</p>
+<hr>
+<h2>Weekly</h2>
+<ul>
+<li><a href="https://javascriptweekly.com/" rel="nofollow">JavaScript Weekly</a> - A newsletter of JavaScript articles, news and cool projects</li>
+<li><a href="https://nodeweekly.com/" rel="nofollow">Node Weekly</a> - A free, once–weekly e-mail round-up of Node.js news and articles</li>
+<li><a href="https://reactjs.org/" rel="nofollow">React</a> - A JavaScript library for building user interfaces
+<ul>
+<li><a href="https://react.statuscode.com/" rel="nofollow">React Status</a> - A weekly roundup of the latest React and React Native links and tutorials.</li>
+<li><a href="https://reactnewsletter.com/" rel="nofollow">React Newsletter</a> - Stay up to date on the latest React news, tutorials, resources, and more. Delivered every Tuesday, for free.</li>
+<li><a href="https://reactdigest.net/" rel="nofollow">React Digest</a> - React Digest is a weekly newsletter with the five most interesting stories in front-end React development <g-emoji class="g-emoji" alias="atom_symbol" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/269b.png">⚛️</g-emoji> <g-emoji class="g-emoji" alias="woman_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f469-1f4bb.png">👩‍💻</g-emoji>.</li>
+</ul>
+</li>
+<li><a href="https://vuejs.org/" rel="nofollow">Vue</a> - The Progressive JavaScript Framework
+<ul>
+<li><a href="https://www.vueweekly.dev/" rel="nofollow">VueWeekly .dev</a> - <g-emoji class="g-emoji" alias="wave" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f44b.png">👋</g-emoji> A free, weekly email digest of Vue.js news and articles.</li>
+<li><a href="https://vuejsdevelopers.com/newsletter/" rel="nofollow">Vue.js Developers Newsletter</a> - The best Vue articles in your inbox, weekly</li>
+</ul>
+</li>
+</ul>
+<h2>Sheet</h2>
+<ul>
+<li><a href="https://github.com/mechaniac/Map-of-Javascript">map of javascript</a> - Javascript on one sheet. (and one for algorithms)</li>
+</ul>
+<h2>JavaScript</h2>
+<ul>
+<li><a href="https://exploringjs.com/impatient-js/toc.html" rel="nofollow">JavaScript for impatient programmers</a></li>
+<li><a href="https://github.com/denysdovhan/wtfjs">What the f*ck JavaScript?</a>
+<ul>
+<li><a href="https://jsisweird.com/" rel="nofollow">That JavaScript quiz you found on Reddit</a> - JS is weird: A fun and tricky JavaScript quiz</li>
+</ul>
+</li>
+<li><a href="https://javascript.info/" rel="nofollow">The Modern JavaScript Tutorial</a> - Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming and more.</li>
+</ul>
+<h2>TypeScript</h2>
+<ul>
+<li><a href="https://www.typescriptlang.org/docs/handbook/intro.html" rel="nofollow">The TypeScript Handbook</a></li>
+<li><a href="https://github.com/type-challenges/type-challenges">type-challenges</a> - Collection of TypeScript type challenges with online judge</li>
+</ul>
+]]></description>
+</item>
+
+</channel>
+</rss>
